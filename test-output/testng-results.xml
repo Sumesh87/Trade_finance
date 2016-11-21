@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="58545" started-at="2016-11-16T06:56:21Z" finished-at="2016-11-16T06:57:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="58545" started-at="2016-11-16T06:56:21Z" finished-at="2016-11-16T06:57:19Z">
+      <class name="TC_script_01">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:TC_script_01@e45f292]" name="setUp" is-config="true" duration-ms="7621" started-at="2016-11-16T12:26:13Z" finished-at="2016-11-16T12:26:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="startReport()[pri:0, instance:TC_script_01@e45f292]" name="startReport" is-config="true" duration-ms="143" started-at="2016-11-16T12:26:21Z" finished-at="2016-11-16T12:26:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method status="PASS" signature="TC_01_login()[pri:0, instance:TC_script_01@e45f292]" name="TC_01_login" duration-ms="4894" started-at="2016-11-16T12:26:21Z" finished-at="2016-11-16T12:26:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_01_login -->
+        <test-method status="PASS" signature="TC_02_workflow()[pri:1, instance:TC_script_01@e45f292]" name="TC_02_workflow" duration-ms="49855" started-at="2016-11-16T12:26:26Z" finished-at="2016-11-16T12:27:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_02_workflow -->
+        <test-method status="PASS" signature="TC_05_signOut()[pri:4, instance:TC_script_01@e45f292]" name="TC_05_signOut" duration-ms="3442" started-at="2016-11-16T12:27:16Z" finished-at="2016-11-16T12:27:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_05_signOut -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:TC_script_01@e45f292]" name="endReport" is-config="true" duration-ms="200" started-at="2016-11-16T12:27:19Z" finished-at="2016-11-16T12:27:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TC_script_01@e45f292]" name="tearDown" is-config="true" duration-ms="1054" started-at="2016-11-16T12:27:19Z" finished-at="2016-11-16T12:27:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TC_script_01 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

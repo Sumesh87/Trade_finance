@@ -1,0 +1,720 @@
+2016-11-10 18:08:13,338 - TC_Log -INFO - Browser Opened
+2016-11-10 18:08:13,518 - TC_Log -INFO - Implicit wait given
+2016-11-10 18:08:21,095 - TC_Log -INFO - Url opened
+2016-11-10 18:09:09,439 - TC_Log -INFO - Browser Opened
+2016-11-10 18:09:09,448 - TC_Log -INFO - Implicit wait given
+2016-11-10 18:09:16,699 - TC_Log -INFO - Url opened
+2016-11-10 19:10:43,923 - TC_Log -INFO - Browser Opened
+2016-11-10 19:10:43,979 - TC_Log -INFO - Implicit wait given
+2016-11-10 19:10:51,548 - TC_Log -INFO - Url opened
+2016-11-10 19:22:50,331 - TC_Log -INFO - Browser Opened
+2016-11-10 19:22:51,136 - TC_Log -INFO - Implicit wait given
+2016-11-10 19:23:04,012 - TC_Log -INFO - Url opened
+2016-11-11 14:28:11,935 - TC_script_01 -INFO - Browser Opened
+2016-11-11 14:37:45,097 - TC_script_01 -INFO - Browser Opened
+2016-11-11 14:37:52,218 - TC_script_01 -INFO - Login is successful 
+2016-11-11 14:37:53,373 - TC_script_01 -INFO - Clicked Hamburger icon 
+2016-11-11 14:37:54,468 - TC_script_01 -INFO - Clicked Opportunity Main icon 
+2016-11-11 14:37:56,527 - TC_script_01 -INFO - Clicked lasty page link on  Opportunity landing page
+2016-11-11 14:45:42,138 - TC_script_01 -INFO - Browser Opened
+2016-11-11 14:45:48,765 - TC_script_01 -INFO - Entered a valid User name,Password and Click Login button 
+2016-11-11 14:45:48,766 - TC_script_01 -INFO - Login is successful 
+2016-11-11 14:46:02,694 - TC_script_01 -INFO - Clicked Hamburger icon 
+2016-11-11 14:46:03,811 - TC_script_01 -INFO - Clicked Opportunity Main icon 
+2016-11-11 14:46:05,814 - TC_script_01 -INFO - Clicked last page on Opportunity page
+2016-11-11 15:05:26,795 - TC_script_01 -INFO - Browser Opened
+2016-11-11 15:05:33,310 - TC_script_01 -INFO - Entered a valid User name,Password and Click Login button 
+2016-11-11 15:05:33,311 - TC_script_01 -INFO - Login is successful 
+2016-11-11 15:05:34,399 - TC_script_01 -INFO - Clicked Hamburger icon 
+2016-11-11 15:05:35,512 - TC_script_01 -INFO - Clicked Opportunity Main icon 
+2016-11-11 15:05:37,697 - TC_script_01 -INFO - Clicked last page on Opportunity page
+2016-11-11 15:11:16,158 - TC_script_01 -INFO - Browser Opened
+2016-11-11 15:15:03,480 - TC_script_01 -INFO - Browser Opened
+2016-11-11 15:15:10,041 - TC_script_01 -INFO - Entered a valid User name,Password and Click Login button 
+2016-11-11 15:15:10,041 - TC_script_01 -INFO - Login is successful 
+2016-11-11 15:15:11,154 - TC_script_01 -INFO - Clicked Hamburger icon 
+2016-11-11 15:15:12,266 - TC_script_01 -INFO - Clicked Opportunity Main icon 
+2016-11-11 15:15:14,277 - TC_script_01 -INFO - Clicked last page on Opportunity page
+2016-11-11 15:50:45,180 - TC_script_01 -INFO - Browser Opened
+2016-11-11 15:50:51,652 - TC_script_01 -INFO - Entered a valid User name,Password and Click Login button 
+2016-11-11 15:50:51,653 - TC_script_01 -INFO - Login is successful 
+2016-11-11 15:50:52,773 - TC_script_01 -INFO - Clicked Hamburger icon 
+2016-11-11 15:50:53,878 - TC_script_01 -INFO - Clicked Opportunity Main icon 
+2016-11-11 15:50:56,289 - TC_script_01 -INFO - Clicked last page on Opportunity page
+2016-11-11 15:53:28,396 - TC_script_01 -INFO - Browser Opened
+2016-11-11 15:53:34,942 - TC_script_01 -INFO - Entered a valid User name,Password and Click Login button 
+2016-11-11 15:53:34,944 - TC_script_01 -INFO - Login is successful 
+2016-11-11 15:53:36,053 - TC_script_01 -INFO - Clicked Hamburger icon 
+2016-11-11 15:53:37,177 - TC_script_01 -INFO - Clicked Opportunity Main icon 
+2016-11-11 15:53:39,259 - TC_script_01 -INFO - Clicked last page on Opportunity page
+2016-11-11 15:54:11,455 - TC_script_01 -INFO - Browser Opened
+2016-11-11 15:54:18,033 - TC_script_01 -INFO - Entered a valid User name,Password and Click Login button 
+2016-11-11 15:54:18,034 - TC_script_01 -INFO - Login is successful 
+2016-11-11 16:01:31,741 - TC_script_01 -INFO - Browser Opened
+2016-11-11 16:01:38,410 - TC_script_01 -INFO - Entered a valid User name,Password and Click Login button 
+2016-11-11 16:01:38,428 - TC_script_01 -INFO - Invalid User ID and password 
+2016-11-11 16:02:18,782 - TC_script_01 -INFO - Browser Opened
+2016-11-11 16:02:25,306 - TC_script_01 -INFO - Entered a valid User name,Password and Click Login button 
+2016-11-11 16:02:25,328 - TC_script_01 -INFO - Login is successful 
+2016-11-11 16:02:26,438 - TC_script_01 -INFO - Clicked Hamburger icon 
+2016-11-11 16:02:27,543 - TC_script_01 -INFO - Clicked Opportunity Main icon 
+2016-11-11 16:02:29,946 - TC_script_01 -INFO - Clicked last page on Opportunity page
+2016-11-11 16:05:51,321 - TC_script_01 -INFO - Browser Opened
+2016-11-11 16:05:52,645 - LoginPage -INFO - User ID is entered
+2016-11-11 16:05:53,765 - LoginPage -INFO - Password is enteres
+2016-11-11 16:05:57,866 - LoginPage -INFO - Login button is clicked
+2016-11-11 16:05:57,874 - TC_script_01 -INFO - Entered a valid User name,Password and Click Login button 
+2016-11-11 16:05:57,891 - TC_script_01 -INFO - Invalid User ID and password 
+2016-11-11 16:06:08,710 - TC_script_01 -INFO - Clicked Hamburger icon 
+2016-11-11 16:06:09,807 - TC_script_01 -INFO - Clicked Opportunity Main icon 
+2016-11-11 16:06:12,550 - TC_script_01 -INFO - Clicked last page on Opportunity page
+2016-11-11 16:08:12,285 - TC_script_01 -INFO - Browser Opened
+2016-11-11 16:08:13,619 - LoginPage -INFO - User ID is entered
+2016-11-11 16:08:14,732 - LoginPage -INFO - Password is entered
+2016-11-11 16:08:15,819 - LoginPage -INFO - Login button is clicked
+2016-11-11 16:08:17,838 - TC_script_01 -INFO - Login is successful 
+2016-11-11 16:08:18,928 - TC_script_01 -INFO - Clicked Hamburger icon 
+2016-11-11 16:08:19,996 - TC_script_01 -INFO - Clicked Opportunity Main icon 
+2016-11-11 16:08:22,771 - TC_script_01 -INFO - Clicked last page on Opportunity page
+2016-11-11 16:33:08,371 - TC_script_01 -INFO - Browser Opened
+2016-11-11 16:33:09,641 - LoginPage -INFO - User ID is entered
+2016-11-11 16:33:10,742 - LoginPage -INFO - Password is entered
+2016-11-11 16:33:11,881 - LoginPage -INFO - Login button is clicked
+2016-11-11 16:33:13,900 - TC_script_01 -INFO - Login is successful 
+2016-11-11 16:33:14,993 - TC_script_01 -INFO - Clicked Hamburger icon 
+2016-11-11 16:33:16,099 - TC_script_01 -INFO - Clicked Opportunity Main icon 
+2016-11-11 16:33:17,434 - OpportunityLandingPage -INFO - Clicked on last page on pagination links
+2016-11-11 16:33:18,435 - TC_script_01 -INFO - Clicked last page on Opportunity page
+2016-11-11 16:38:00,716 - TC_script_01 -INFO - Browser is Opened
+2016-11-11 16:38:02,046 - LoginPage -INFO - User ID: apolson is entered
+2016-11-11 16:38:03,124 - LoginPage -INFO - Password : 123 is entered
+2016-11-11 16:38:04,342 - LoginPage -INFO - Login button is clicked
+2016-11-11 16:38:06,390 - TC_script_01 -INFO - Login is successful 
+2016-11-11 16:38:07,492 - TC_script_01 -INFO - Clicked Hamburger icon 
+2016-11-11 16:38:08,603 - TC_script_01 -INFO - Clicked Opportunity Main icon 
+2016-11-11 16:38:09,986 - OpportunityLandingPage -INFO - Clicked on last page on pagination links
+2016-11-11 16:38:10,986 - TC_script_01 -INFO - Clicked last page on Opportunity page
+2016-11-11 16:38:50,714 - TC_script_01 -INFO - Browser is Opened
+2016-11-11 16:38:52,033 - LoginPage -INFO - User ID: 'apolson' is entered
+2016-11-11 16:38:53,109 - LoginPage -INFO - Password : '123' is entered
+2016-11-11 16:38:54,237 - LoginPage -INFO - Login button is clicked
+2016-11-11 16:38:56,264 - TC_script_01 -INFO - Login is successful 
+2016-11-11 16:38:57,355 - TC_script_01 -INFO - Clicked Hamburger icon 
+2016-11-11 16:38:58,469 - TC_script_01 -INFO - Clicked Opportunity Main icon 
+2016-11-11 16:38:59,503 - OpportunityLandingPage -INFO - Clicked on last page on pagination links
+2016-11-11 16:39:00,504 - TC_script_01 -INFO - Clicked last page on Opportunity page
+2016-11-11 16:47:34,776 - TC_script_01 -INFO - Browser is Opened
+2016-11-11 16:47:36,097 - LoginPage -INFO - User ID: 'apolson' is entered
+2016-11-11 16:47:37,157 - LoginPage -INFO - Password : '123' is entered
+2016-11-11 16:47:38,267 - LoginPage -INFO - Login button is clicked
+2016-11-11 16:47:40,294 - TC_script_01 -INFO - Login is successful 
+2016-11-11 16:47:41,395 - TC_script_01 -INFO - Clicked Hamburger icon 
+2016-11-11 16:47:42,521 - TC_script_01 -INFO - Clicked Opportunity Main icon 
+2016-11-11 16:47:43,896 - OpportunityLandingPage -INFO - Clicked on last page on pagination links
+2016-11-11 16:47:44,897 - TC_script_01 -INFO - Clicked last page on Opportunity page
+2016-11-11 16:53:41,160 - TC_script_01 -INFO - Browser is Opened
+2016-11-11 16:53:42,431 - LoginPage -INFO - User ID: 'apolson' is entered
+2016-11-11 16:53:43,544 - LoginPage -INFO - Password : '123' is entered
+2016-11-11 16:53:44,651 - LoginPage -INFO - Login button is clicked
+2016-11-11 16:53:46,677 - TC_script_01 -INFO - Login is successful 
+2016-11-11 16:53:47,787 - TC_script_01 -INFO - Clicked Hamburger icon 
+2016-11-11 16:53:48,859 - TC_script_01 -INFO - Clicked Opportunity Main icon 
+2016-11-11 16:53:50,215 - OpportunityLandingPage -INFO - Clicked on last page on pagination links
+2016-11-11 16:53:51,216 - TC_script_01 -INFO - Clicked last page on Opportunity page
+2016-11-11 16:56:15,124 - TC_script_01 -INFO - Browser is Opened
+2016-11-11 16:56:17,985 - TC_script_01 -INFO - TRAC application is launched ...
+2016-11-11 16:56:19,260 - LoginPage -INFO - User ID: 'apolson' is entered
+2016-11-11 16:56:20,358 - LoginPage -INFO - Password : '123' is entered
+2016-11-11 16:56:21,490 - LoginPage -INFO - Login button is clicked
+2016-11-11 16:56:23,507 - TC_script_01 -INFO - Login is successful 
+2016-11-11 16:56:24,606 - TC_script_01 -INFO - Clicked Hamburger icon 
+2016-11-11 16:56:25,729 - TC_script_01 -INFO - Clicked Opportunity Main icon 
+2016-11-11 16:56:27,087 - OpportunityLandingPage -INFO - Clicked on last page on pagination links
+2016-11-11 16:56:28,087 - TC_script_01 -INFO - Clicked last page on Opportunity page
+2016-11-11 17:17:13,126 - TC_script_01 -INFO - Browser is Opened
+2016-11-11 17:17:15,534 - TC_script_01 -INFO - TRAC application is launched ...
+2016-11-11 17:17:16,771 - LoginPage -INFO - User ID: 'apolson' is entered
+2016-11-11 17:17:17,875 - LoginPage -INFO - Password : '123' is entered
+2016-11-11 17:17:19,032 - LoginPage -INFO - Login button is clicked
+2016-11-11 17:17:22,324 - TC_script_01 -INFO - Successfully logged into the application. 
+2016-11-11 17:17:23,404 - TC_script_01 -INFO - Clicked Hamburger icon 
+2016-11-11 17:17:24,532 - TC_script_01 -INFO - Clicked Opportunity Main icon 
+2016-11-11 17:17:26,169 - OpportunityLandingPage -INFO - Clicked on last page on pagination links
+2016-11-11 17:17:27,170 - TC_script_01 -INFO - Clicked last page on Opportunity page
+2016-11-11 17:40:07,108 - TC_script_01 -INFO - Browser is Opened
+2016-11-11 17:40:08,448 - TC_script_01 -INFO - TRAC application is launched ...
+2016-11-11 17:40:09,796 - LoginPage -INFO - User ID: 'apolson' is entered
+2016-11-11 17:40:10,893 - LoginPage -INFO - Password : '123' is entered
+2016-11-11 17:40:12,093 - LoginPage -INFO - Login button is clicked
+2016-11-11 17:40:14,158 - TC_script_01 -INFO - Successfully logged into the application. 
+2016-11-11 17:40:15,438 - TC_script_01 -INFO - Clicked Hamburger icon 
+2016-11-11 17:40:16,505 - TC_script_01 -INFO - Clicked Opportunity Main icon 
+2016-11-11 17:40:17,760 - OpportunityLandingPage -INFO - Clicked on last page on pagination links
+2016-11-11 17:40:18,761 - TC_script_01 -INFO - Clicked last page on Opportunity page
+2016-11-11 17:40:53,481 - TC_script_01 -INFO - Browser is Opened
+2016-11-11 17:40:55,026 - TC_script_01 -INFO - TRAC application is launched ...
+2016-11-11 17:40:56,303 - LoginPage -INFO - User ID: 'apolson' is entered
+2016-11-11 17:40:57,425 - LoginPage -INFO - Password : '123' is entered
+2016-11-11 17:40:58,570 - LoginPage -INFO - Login button is clicked
+2016-11-11 17:41:01,095 - TC_script_01 -INFO - Successfully logged into the application. 
+2016-11-11 17:41:02,180 - TC_script_01 -INFO - Clicked Hamburger icon 
+2016-11-11 17:41:03,270 - TC_script_01 -INFO - Clicked Opportunity Main icon 
+2016-11-11 17:41:07,721 - OpportunityLandingPage -INFO - Clicked on last page on pagination links
+2016-11-11 17:41:08,722 - TC_script_01 -INFO - Clicked last page on Opportunity page
+2016-11-11 17:41:15,176 - TC_script_01 -INFO - Browser is Opened
+2016-11-11 17:41:17,405 - TC_script_01 -INFO - TRAC application is launched ...
+2016-11-11 17:41:18,744 - LoginPage -INFO - User ID: 'apolson' is entered
+2016-11-11 17:41:19,842 - LoginPage -INFO - Password : '123' is entered
+2016-11-11 17:41:20,941 - LoginPage -INFO - Login button is clicked
+2016-11-11 17:41:22,967 - TC_script_01 -INFO - Successfully logged into the application. 
+2016-11-11 17:41:24,092 - TC_script_01 -INFO - Clicked Hamburger icon 
+2016-11-11 17:41:25,255 - TC_script_01 -INFO - Clicked Opportunity Main icon 
+2016-11-11 17:41:44,828 - OpportunityLandingPage -INFO - Clicked on last page on pagination links
+2016-11-11 17:41:45,829 - TC_script_01 -INFO - Clicked last page on Opportunity page
+2016-11-14 09:35:19,863 - TC_script_01 -INFO - Browser is Opened
+2016-11-14 09:35:22,482 - TC_script_01 -INFO - TRAC application is launched ...
+2016-11-14 09:35:25,293 - LoginPage -INFO - User ID: 'apolson' is entered
+2016-11-14 09:35:26,442 - LoginPage -INFO - Password : '123.0' is entered
+2016-11-14 09:35:27,782 - LoginPage -INFO - Login button is clicked
+2016-11-14 09:35:29,806 - TC_script_01 -INFO - Invalid User ID and password..
+2016-11-14 09:36:49,233 - TC_script_01 -INFO - Browser is Opened
+2016-11-14 09:36:56,098 - TC_script_01 -INFO - TRAC application is launched ...
+2016-11-14 09:36:57,834 - LoginPage -INFO - User ID: 'apolson' is entered
+2016-11-14 09:36:58,959 - LoginPage -INFO - Password : '123.0' is entered
+2016-11-14 09:37:00,106 - LoginPage -INFO - Login button is clicked
+2016-11-14 09:37:02,150 - TC_script_01 -INFO - Invalid User ID and password..
+2016-11-14 09:37:11,925 - TC_script_01 -INFO - Browser is Opened
+2016-11-14 09:37:14,108 - TC_script_01 -INFO - TRAC application is launched ...
+2016-11-14 09:37:15,799 - LoginPage -INFO - User ID: 'apolson' is entered
+2016-11-14 09:37:16,921 - LoginPage -INFO - Password : '123.0' is entered
+2016-11-14 09:37:18,044 - LoginPage -INFO - Login button is clicked
+2016-11-14 09:37:20,050 - TC_script_01 -INFO - Invalid User ID and password..
+2016-11-14 09:38:01,827 - TC_script_01 -INFO - Browser is Opened
+2016-11-14 09:38:03,737 - TC_script_01 -INFO - TRAC application is launched ...
+2016-11-14 09:38:05,474 - LoginPage -INFO - User ID: 'apolson' is entered
+2016-11-14 09:38:06,595 - LoginPage -INFO - Password : '123.0' is entered
+2016-11-14 09:38:07,743 - LoginPage -INFO - Login button is clicked
+2016-11-14 09:38:09,766 - TC_script_01 -INFO - Invalid User ID and password..
+2016-11-14 11:20:35,687 - TC_script_01 -INFO - Browser is Opened
+2016-11-14 11:20:44,282 - TC_script_01 -INFO - TRAC application is launched ...
+2016-11-14 11:21:02,759 - LoginPage -INFO - User ID: 'apolson' is entered
+2016-11-14 11:21:04,027 - LoginPage -INFO - Password : '123.0' is entered
+2016-11-14 11:21:05,977 - LoginPage -INFO - Login button is clicked
+2016-11-14 11:21:08,053 - TC_script_01 -INFO - Invalid User ID and password..
+2016-11-14 13:20:12,733 - TC_script_01 -INFO - Browser is Opened
+2016-11-14 13:20:15,485 - TC_script_01 -INFO - TRAC application is launched ...
+2016-11-14 13:20:18,438 - LoginPage -INFO - User ID: 'apolson' is entered
+2016-11-14 13:20:19,583 - LoginPage -INFO - Password : '123.0' is entered
+2016-11-14 13:20:20,810 - LoginPage -INFO - Login button is clicked
+2016-11-14 13:20:22,882 - TC_script_01 -INFO - Invalid User ID and password..
+2016-11-14 14:29:45,214 - TC_script_01 -INFO - Browser is Opened
+2016-11-14 14:29:59,250 - TC_script_01 -INFO - TRAC application is launched ...
+2016-11-14 14:30:01,007 - LoginPage -INFO - User ID: 'apolson' is entered
+2016-11-14 14:30:02,137 - LoginPage -INFO - Password : '123.0' is entered
+2016-11-14 14:30:04,054 - LoginPage -INFO - Login button is clicked
+2016-11-14 14:30:06,080 - TC_script_01 -INFO - Invalid User ID and password..
+2016-11-14 14:35:48,108 - TC_script_01 -INFO - Browser is Opened
+2016-11-14 14:35:50,830 - TC_script_01 -INFO - TRAC application is launched ...
+2016-11-14 14:35:52,584 - LoginPage -INFO - User ID: 'apolson' is entered
+2016-11-14 14:35:53,702 - LoginPage -INFO - Password : '123.0' is entered
+2016-11-14 14:35:54,833 - LoginPage -INFO - Login button is clicked
+2016-11-14 14:35:56,841 - TC_script_01 -INFO - Invalid User ID and password..
+2016-11-14 14:36:15,404 - TC_script_01 -INFO - Browser is Opened
+2016-11-14 14:36:33,117 - TC_script_01 -INFO - TRAC application is launched ...
+2016-11-14 14:36:34,866 - LoginPage -INFO - User ID: 'apolson' is entered
+2016-11-14 14:36:35,972 - LoginPage -INFO - Password : '456' is entered
+2016-11-14 14:36:37,152 - LoginPage -INFO - Login button is clicked
+2016-11-14 14:36:39,173 - TC_script_01 -INFO - Invalid User ID and password..
+2016-11-14 14:37:18,842 - TC_script_01 -INFO - Browser is Opened
+2016-11-14 14:37:20,462 - TC_script_01 -INFO - TRAC application is launched ...
+2016-11-14 14:37:22,183 - LoginPage -INFO - User ID: 'apolson' is entered
+2016-11-14 14:37:23,298 - LoginPage -INFO - Password : '123' is entered
+2016-11-14 14:37:24,429 - LoginPage -INFO - Login button is clicked
+2016-11-14 14:37:27,707 - TC_script_01 -INFO - Successfully logged into the application. 
+2016-11-14 14:37:28,801 - TC_script_01 -INFO - Clicked Hamburger icon 
+2016-11-14 14:37:29,917 - TC_script_01 -INFO - Clicked Opportunity Main icon 
+2016-11-14 14:37:32,282 - OpportunityLandingPage -INFO - Clicked on last page on pagination links
+2016-11-14 14:37:33,283 - TC_script_01 -INFO - Clicked last page on Opportunity page
+2016-11-14 15:05:43,336 - TC_script_01 -INFO - Browser is Opened
+2016-11-14 15:05:44,922 - TC_script_01 -INFO - TRAC application is launched ...
+2016-11-14 15:05:46,692 - LoginPage -INFO - User ID: 'apolson' is entered
+2016-11-14 15:05:47,807 - LoginPage -INFO - Password : '123' is entered
+2016-11-14 15:05:48,917 - LoginPage -INFO - Login button is clicked
+2016-11-14 15:05:50,946 - TC_script_01 -INFO - Successfully logged into the application. 
+2016-11-14 15:05:52,054 - TC_script_01 -INFO - Clicked 'Hamburger' icon 
+2016-11-14 15:05:53,164 - TC_script_01 -INFO - Clicked opportunity Main menu 
+2016-11-14 15:05:56,360 - TC_script_01 -INFO - mouse hover is performed over workflow icon
+2016-11-14 15:05:57,901 - WorkflowPage -INFO - Clicked on Add Workflow
+2016-11-14 15:05:58,903 - TC_script_01 -INFO - Clicked on  workflow icon
+2016-11-14 15:05:59,972 - WorkflowPage -INFO - Entered name of the Workflow
+2016-11-14 15:07:16,159 - TC_script_01 -INFO - Browser is Opened
+2016-11-14 15:07:17,920 - TC_script_01 -INFO - TRAC application is launched ...
+2016-11-14 15:07:19,649 - LoginPage -INFO - User ID: 'apolson' is entered
+2016-11-14 15:07:20,763 - LoginPage -INFO - Password : '123' is entered
+2016-11-14 15:07:21,898 - LoginPage -INFO - Login button is clicked
+2016-11-14 15:07:23,914 - TC_script_01 -INFO - Successfully logged into the application. 
+2016-11-14 15:07:25,009 - TC_script_01 -INFO - Clicked 'Hamburger' icon 
+2016-11-14 15:07:26,093 - TC_script_01 -INFO - Clicked opportunity Main menu 
+2016-11-14 15:07:29,307 - TC_script_01 -INFO - mouse hover is performed over workflow icon
+2016-11-14 15:07:32,892 - WorkflowPage -INFO - Clicked on Add Workflow
+2016-11-14 15:07:33,892 - TC_script_01 -INFO - Clicked on  workflow icon
+2016-11-14 15:07:34,379 - WorkflowPage -INFO - Entered name of the Workflow
+2016-11-14 15:07:35,526 - WorkflowPage -INFO - Entered description of the Workflow
+2016-11-14 15:08:17,288 - TC_script_01 -INFO - Browser is Opened
+2016-11-14 15:08:18,670 - TC_script_01 -INFO - TRAC application is launched ...
+2016-11-14 15:08:20,445 - LoginPage -INFO - User ID: 'apolson' is entered
+2016-11-14 15:08:21,574 - LoginPage -INFO - Password : '123' is entered
+2016-11-14 15:08:22,692 - LoginPage -INFO - Login button is clicked
+2016-11-14 15:08:24,719 - TC_script_01 -INFO - Successfully logged into the application. 
+2016-11-14 15:08:25,821 - TC_script_01 -INFO - Clicked 'Hamburger' icon 
+2016-11-14 15:08:26,945 - TC_script_01 -INFO - Clicked opportunity Main menu 
+2016-11-14 15:08:30,142 - TC_script_01 -INFO - mouse hover is performed over workflow icon
+2016-11-14 15:08:31,960 - WorkflowPage -INFO - Clicked on Add Workflow
+2016-11-14 15:08:32,960 - TC_script_01 -INFO - Clicked on  workflow icon
+2016-11-14 15:08:34,367 - WorkflowPage -INFO - Entered name of the Workflow
+2016-11-14 15:08:35,528 - WorkflowPage -INFO - Entered description of the Workflow
+2016-11-14 15:09:18,909 - TC_script_01 -INFO - Browser is Opened
+2016-11-14 15:09:20,525 - TC_script_01 -INFO - TRAC application is launched ...
+2016-11-14 15:09:22,299 - LoginPage -INFO - User ID: 'apolson' is entered
+2016-11-14 15:09:23,384 - LoginPage -INFO - Password : '123' is entered
+2016-11-14 15:09:24,524 - LoginPage -INFO - Login button is clicked
+2016-11-14 15:09:26,552 - TC_script_01 -INFO - Successfully logged into the application. 
+2016-11-14 15:09:27,644 - TC_script_01 -INFO - Clicked 'Hamburger' icon 
+2016-11-14 15:09:28,729 - TC_script_01 -INFO - Clicked opportunity Main menu 
+2016-11-14 15:09:31,938 - TC_script_01 -INFO - mouse hover is performed over workflow icon
+2016-11-14 15:09:34,058 - WorkflowPage -INFO - Clicked on Add Workflow
+2016-11-14 15:09:35,059 - TC_script_01 -INFO - Clicked on  workflow icon
+2016-11-14 15:09:36,233 - WorkflowPage -INFO - Entered name of the Workflow
+2016-11-14 15:09:37,378 - WorkflowPage -INFO - Entered description of the Workflow
+2016-11-14 15:14:04,614 - TC_script_01 -INFO - Browser is Opened
+2016-11-14 15:14:06,365 - TC_script_01 -INFO - TRAC application is launched ...
+2016-11-14 15:14:08,105 - LoginPage -INFO - User ID: 'apolson' is entered
+2016-11-14 15:14:09,216 - LoginPage -INFO - Password : '123' is entered
+2016-11-14 15:14:10,356 - LoginPage -INFO - Login button is clicked
+2016-11-14 15:14:12,364 - TC_script_01 -INFO - Successfully logged into the application. 
+2016-11-14 15:14:13,440 - TC_script_01 -INFO - Clicked 'Hamburger' icon 
+2016-11-14 15:14:14,540 - TC_script_01 -INFO - Clicked opportunity Main menu 
+2016-11-14 15:14:17,747 - TC_script_01 -INFO - mouse hover is performed over workflow icon
+2016-11-14 15:14:19,230 - WorkflowPage -INFO - Clicked on Add Workflow
+2016-11-14 15:14:20,232 - TC_script_01 -INFO - Clicked on  workflow icon
+2016-11-14 15:14:21,086 - WorkflowPage -INFO - Entered name of the Workflow
+2016-11-14 15:14:22,259 - WorkflowPage -INFO - Entered description of the Workflow
+2016-11-14 15:14:47,346 - TC_script_01 -INFO - Browser is Opened
+2016-11-14 15:14:49,110 - TC_script_01 -INFO - TRAC application is launched ...
+2016-11-14 15:14:50,884 - LoginPage -INFO - User ID: 'apolson' is entered
+2016-11-14 15:14:51,993 - LoginPage -INFO - Password : '123' is entered
+2016-11-14 15:14:53,107 - LoginPage -INFO - Login button is clicked
+2016-11-14 15:14:55,135 - TC_script_01 -INFO - Successfully logged into the application. 
+2016-11-14 15:14:56,241 - TC_script_01 -INFO - Clicked 'Hamburger' icon 
+2016-11-14 15:14:57,348 - TC_script_01 -INFO - Clicked opportunity Main menu 
+2016-11-14 15:15:00,547 - TC_script_01 -INFO - mouse hover is performed over workflow icon
+2016-11-14 15:15:02,227 - WorkflowPage -INFO - Clicked on Add Workflow
+2016-11-14 15:15:03,228 - TC_script_01 -INFO - Clicked on  workflow icon
+2016-11-14 15:15:04,281 - WorkflowPage -INFO - Entered name of the Workflow
+2016-11-14 15:15:05,435 - WorkflowPage -INFO - Entered description of the Workflow
+2016-11-14 15:15:43,218 - TC_script_01 -INFO - Browser is Opened
+2016-11-14 15:15:45,141 - TC_script_01 -INFO - TRAC application is launched ...
+2016-11-14 15:15:46,908 - LoginPage -INFO - User ID: 'apolson' is entered
+2016-11-14 15:15:48,025 - LoginPage -INFO - Password : '123' is entered
+2016-11-14 15:15:49,183 - LoginPage -INFO - Login button is clicked
+2016-11-14 15:15:51,209 - TC_script_01 -INFO - Successfully logged into the application. 
+2016-11-14 15:15:52,305 - TC_script_01 -INFO - Clicked 'Hamburger' icon 
+2016-11-14 15:15:53,411 - TC_script_01 -INFO - Clicked opportunity Main menu 
+2016-11-14 15:15:56,629 - TC_script_01 -INFO - mouse hover is performed over workflow icon
+2016-11-14 15:15:57,995 - WorkflowPage -INFO - Clicked on Add Workflow
+2016-11-14 15:15:58,996 - TC_script_01 -INFO - Clicked on  workflow icon
+2016-11-14 15:16:00,032 - WorkflowPage -INFO - Entered name of the Workflow
+2016-11-14 15:16:01,180 - WorkflowPage -INFO - Entered description of the Workflow
+2016-11-14 15:16:27,208 - TC_script_01 -INFO - A new Workflow is created
+2016-11-14 15:16:33,531 - WorkflowPage -INFO - Clicked on Edit Workflow
+2016-11-14 15:16:34,532 - TC_script_01 -INFO - Workflow is edited succesfully
+2016-11-14 15:35:13,217 - TC_script_01 -INFO - Browser is Opened
+2016-11-14 15:35:14,934 - TC_script_01 -INFO - TRAC application is launched ...
+2016-11-14 15:35:16,702 - LoginPage -INFO - User ID: 'apolson' is entered
+2016-11-14 15:35:17,818 - LoginPage -INFO - Password : '123' is entered
+2016-11-14 15:35:19,008 - LoginPage -INFO - Login button is clicked
+2016-11-14 15:35:21,036 - TC_script_01 -INFO - Successfully logged into the application. 
+2016-11-14 15:35:22,149 - TC_script_01 -INFO - Clicked 'Hamburger' icon 
+2016-11-14 15:35:23,273 - TC_script_01 -INFO - Clicked opportunity Main menu 
+2016-11-14 15:35:26,484 - TC_script_01 -INFO - mouse hover is performed over workflow icon
+2016-11-14 15:35:27,617 - WorkflowPage -INFO - Clicked on Add Workflow
+2016-11-14 15:35:28,617 - TC_script_01 -INFO - Clicked on  workflow icon
+2016-11-14 15:35:29,330 - WorkflowPage -INFO - Entered name of the Workflow
+2016-11-14 15:35:30,480 - WorkflowPage -INFO - Entered description of the Workflow
+2016-11-14 15:35:56,559 - TC_script_01 -INFO - A new Workflow is created
+2016-11-14 15:35:56,651 - WorkflowPage -INFO - Clicked on Edit Workflow
+2016-11-14 15:35:57,652 - TC_script_01 -INFO - Workflow is edited succesfully
+2016-11-14 15:44:12,111 - TC_script_01 -INFO - Browser is Opened
+2016-11-14 15:44:15,826 - TC_script_01 -INFO - TRAC application is launched ...
+2016-11-14 15:44:17,599 - LoginPage -INFO - User ID: 'apolson' is entered
+2016-11-14 15:44:18,712 - LoginPage -INFO - Password : '123' is entered
+2016-11-14 15:44:19,887 - LoginPage -INFO - Login button is clicked
+2016-11-14 15:44:21,897 - TC_script_01 -INFO - Successfully logged into the application. 
+2016-11-14 15:44:22,975 - TC_script_01 -INFO - Clicked 'Hamburger' icon 
+2016-11-14 15:44:24,097 - TC_script_01 -INFO - Clicked opportunity Main menu 
+2016-11-14 15:44:27,312 - TC_script_01 -INFO - mouse hover is performed over workflow icon
+2016-11-14 15:44:28,645 - WorkflowPage -INFO - Clicked on Add Workflow
+2016-11-14 15:44:29,645 - TC_script_01 -INFO - Clicked on  workflow icon
+2016-11-14 15:44:30,270 - WorkflowPage -INFO - Workflow Name: 'Industrial check Workflow' is entered
+2016-11-14 15:44:31,416 - WorkflowPage -INFO - Workflow description: 'This Workflow is a Test Workflow' is entered
+2016-11-14 15:44:33,655 - WorkflowPage -INFO - Business Calendar: '2016' is entered
+2016-11-14 15:44:38,408 - WorkflowPage -INFO - SubWorkflow Name: 'Industrial check Sub Workflow' is entered
+2016-11-14 15:44:39,538 - WorkflowPage -INFO - SubWorkflow Desc: 'This Sub-Workflow is a Test sub-Workflow' is entered
+2016-11-14 15:44:41,810 - WorkflowPage -INFO - User name: 'Sumesh' is entered
+2016-11-14 15:44:46,565 - WorkflowPage -INFO - Caption name: 'Opportunity Ref' is entered
+2016-11-14 15:44:47,695 - WorkflowPage -INFO - Datapoint name: 'Opportunity Ref' is entered
+2016-11-14 15:44:49,964 - WorkflowPage -INFO - Datapoint Type: 'Opportunity Dropdown' is entered
+2016-11-14 15:44:51,112 - WorkflowPage -INFO - OK button is clicked
+2016-11-14 15:44:52,223 - WorkflowPage -INFO - Finally, Save button is clicked !
+2016-11-14 15:44:57,329 - TC_script_01 -INFO - A new Workflow is created
+2016-11-14 15:44:57,488 - WorkflowPage -INFO - Clicked on Edit Workflow
+2016-11-14 15:44:58,488 - TC_script_01 -INFO - Workflow is edited succesfully
+2016-11-14 16:10:49,651 - TC_script_01 -INFO - A new Browser is Opened
+2016-11-14 16:10:52,776 - TC_script_01 -INFO - TRAC application is launched ..
+2016-11-14 16:10:54,551 - LoginPage -INFO - User ID: 'apolson' is entered
+2016-11-14 16:10:55,661 - LoginPage -INFO - Password : '123' is entered
+2016-11-14 16:10:56,774 - LoginPage -INFO - Login button is clicked
+2016-11-14 16:10:58,802 - TC_script_01 -INFO - Successfully logged into the application. 
+2016-11-14 16:13:07,208 - TC_script_01 -INFO - A new Browser is Opened
+2016-11-14 16:13:09,439 - TC_script_01 -INFO - TRAC application is launched ..
+2016-11-14 16:13:11,183 - LoginPage -INFO - User ID: 'apolson' is entered
+2016-11-14 16:13:12,285 - LoginPage -INFO - Password : '123' is entered
+2016-11-14 16:13:13,399 - LoginPage -INFO - Login button is clicked
+2016-11-14 16:13:15,431 - TC_script_01 -INFO - Successfully logged into the application. 
+2016-11-14 16:15:11,669 - TC_script_01 -INFO - A new Browser is Opened
+2016-11-14 16:15:14,180 - TC_script_01 -INFO - TRAC application is launched ..
+2016-11-14 16:15:15,906 - LoginPage -INFO - User ID: 'apolson' is entered
+2016-11-14 16:15:17,021 - LoginPage -INFO - Password : '123' is entered
+2016-11-14 16:15:18,161 - LoginPage -INFO - Login button is clicked
+2016-11-14 16:15:20,491 - TC_script_01 -INFO - Successfully logged into the application. 
+2016-11-14 16:15:37,159 - TC_script_01 -INFO - A new Browser is Opened
+2016-11-14 16:15:40,390 - TC_script_01 -INFO - TRAC application is launched ..
+2016-11-14 16:15:42,143 - LoginPage -INFO - User ID: 'apolson' is entered
+2016-11-14 16:15:43,260 - LoginPage -INFO - Password : '123' is entered
+2016-11-14 16:15:44,374 - LoginPage -INFO - Login button is clicked
+2016-11-14 16:15:46,391 - TC_script_01 -INFO - Successfully logged into the application. 
+2016-11-15 12:04:13,063 - TC_script_01 -INFO - A new Browser is Opened
+2016-11-15 12:05:06,409 - TC_script_01 -INFO - TRAC application is launched ..
+2016-11-15 12:12:02,269 - TC_script_01 -INFO - A new Browser is Opened
+2016-11-15 12:12:05,213 - TC_script_01 -INFO - TRAC application is launched ..
+2016-11-15 12:12:07,245 - LoginPage -INFO - User ID: 'apolson' is entered
+2016-11-15 12:12:08,379 - LoginPage -INFO - Password : '123' is entered
+2016-11-15 12:12:09,516 - LoginPage -INFO - Login button is clicked
+2016-11-15 12:12:24,741 - TC_script_01 -INFO - Successfully logged into the application. 
+2016-11-15 12:12:25,829 - TC_script_01 -INFO - Clicked 'Hamburger' icon 
+2016-11-15 12:12:26,962 - TC_script_01 -INFO - Clicked opportunity Main menu 
+2016-11-15 12:12:30,172 - TC_script_01 -INFO - Mouse hover is performed over workflow icon
+2016-11-15 12:12:33,557 - WorkflowPage -INFO - Clicked on Add Workflow
+2016-11-15 12:12:34,558 - TC_script_01 -INFO - Clicked on  workflow icon
+2016-11-15 12:12:36,526 - WorkflowPage -INFO - Workflow Name: 'Risk Mitigation check Workflow' is entered
+2016-11-15 12:12:37,680 - WorkflowPage -INFO - Workflow description: 'This Workflow is a Test Workflow' is entered
+2016-11-15 12:12:39,966 - WorkflowPage -INFO - Business Calendar: '2016' is entered
+2016-11-15 12:12:44,771 - WorkflowPage -INFO - SubWorkflow Name: 'Risk Mitigation Sub Workflow' is entered
+2016-11-15 12:12:45,943 - WorkflowPage -INFO - SubWorkflow Desc: 'This Sub-Workflow is a Test sub-Workflow' is entered
+2016-11-15 12:12:48,242 - WorkflowPage -INFO - User name: 'Sumesh' is entered
+2016-11-15 12:12:53,048 - WorkflowPage -INFO - Caption name: 'Opportunity Ref' is entered
+2016-11-15 12:12:54,186 - WorkflowPage -INFO - Datapoint name: 'Opportunity Ref' is entered
+2016-11-15 12:12:56,482 - WorkflowPage -INFO - Datapoint Type: 'Opportunity Dropdown' is entered
+2016-11-15 12:12:57,678 - WorkflowPage -INFO - OK button is clicked
+2016-11-15 12:12:58,790 - WorkflowPage -INFO - Finally, Save button is clicked !
+2016-11-15 12:13:03,928 - TC_script_01 -INFO - A new Workflow is created
+2016-11-15 12:13:04,070 - WorkflowPage -INFO - Clicked on Edit Workflow
+2016-11-15 12:13:05,071 - TC_script_01 -INFO - Workflow is edited succesfully
+2016-11-15 12:30:56,842 - TC_script_01 -INFO - A new Browser is Opened
+2016-11-15 12:31:01,792 - TC_script_01 -INFO - TRAC application is launched ..
+2016-11-15 13:05:34,321 - TC_script_01 -INFO - A new Browser is Opened
+2016-11-15 13:05:36,837 - TC_script_01 -INFO - TRAC application is launched ..
+2016-11-15 13:06:27,356 - TC_script_01 -INFO - A new Browser is Opened
+2016-11-15 13:06:29,202 - TC_script_01 -INFO - TRAC application is launched ..
+2016-11-15 13:06:31,927 - LoginPage -INFO - User ID: 'apolson' is entered
+2016-11-15 13:06:33,111 - LoginPage -INFO - Password : '123' is entered
+2016-11-15 13:06:34,268 - LoginPage -INFO - Login button is clicked
+2016-11-15 13:06:43,052 - TC_script_01 -INFO - Successfully logged into the application. 
+2016-11-15 13:06:44,167 - TC_script_01 -INFO - Clicked 'Hamburger' icon 
+2016-11-15 13:06:45,277 - TC_script_01 -INFO - Clicked opportunity Main menu 
+2016-11-15 13:06:48,499 - TC_script_01 -INFO - Mouse hover is performed over workflow icon
+2016-11-15 13:06:51,480 - WorkflowPage -INFO - Clicked on Add Workflow
+2016-11-15 13:06:52,481 - TC_script_01 -INFO - Clicked on  Add workflow icon
+2016-11-15 13:06:52,981 - WorkflowPage -INFO - Workflow Name: 'Risk Mitigation check Workflow' is entered
+2016-11-15 13:06:54,128 - WorkflowPage -INFO - Workflow description: 'This Workflow is a Test Workflow' is entered
+2016-11-15 13:07:44,836 - TC_script_01 -INFO - A new Browser is Opened
+2016-11-15 13:07:48,226 - TC_script_01 -INFO - TRAC application is launched ..
+2016-11-15 13:07:49,995 - LoginPage -INFO - User ID: 'apolson' is entered
+2016-11-15 13:07:51,080 - LoginPage -INFO - Password : '123' is entered
+2016-11-15 13:07:52,197 - LoginPage -INFO - Login button is clicked
+2016-11-15 13:07:54,220 - TC_script_01 -INFO - Successfully logged into the application. 
+2016-11-15 13:07:55,326 - TC_script_01 -INFO - Clicked 'Hamburger' icon 
+2016-11-15 13:07:56,427 - TC_script_01 -INFO - Clicked opportunity Main menu 
+2016-11-15 13:07:59,524 - TC_script_01 -INFO - Mouse hover is performed over workflow icon
+2016-11-15 13:08:00,914 - WorkflowPage -INFO - Clicked on Add Workflow
+2016-11-15 13:08:01,915 - TC_script_01 -INFO - Clicked on  Add workflow icon
+2016-11-15 13:08:51,726 - TC_script_01 -INFO - A new Browser is Opened
+2016-11-15 13:08:54,655 - TC_script_01 -INFO - TRAC application is launched ..
+2016-11-15 13:08:56,456 - LoginPage -INFO - User ID: 'apolson' is entered
+2016-11-15 13:08:57,578 - LoginPage -INFO - Password : '123' is entered
+2016-11-15 13:08:58,654 - LoginPage -INFO - Login button is clicked
+2016-11-15 13:09:00,686 - TC_script_01 -INFO - Successfully logged into the application. 
+2016-11-15 13:09:01,800 - TC_script_01 -INFO - Clicked 'Hamburger' icon 
+2016-11-15 13:09:02,873 - TC_script_01 -INFO - Clicked opportunity Main menu 
+2016-11-15 13:09:06,359 - TC_script_01 -INFO - Mouse hover is performed over workflow icon
+2016-11-15 13:12:59,669 - TC_script_01 -INFO - A new Browser is Opened
+2016-11-15 13:13:01,214 - TC_script_01 -INFO - TRAC application is launched ..
+2016-11-15 13:13:02,989 - LoginPage -INFO - User ID: 'apolson' is entered
+2016-11-15 13:13:04,071 - LoginPage -INFO - Password : '123' is entered
+2016-11-15 13:13:05,200 - LoginPage -INFO - Login button is clicked
+2016-11-15 13:13:09,956 - TC_script_01 -INFO - Successfully logged into the application. 
+2016-11-15 13:13:11,061 - TC_script_01 -INFO - Clicked 'Hamburger' icon 
+2016-11-15 13:14:53,271 - TC_script_01 -INFO - A new Browser is Opened
+2016-11-15 13:16:15,861 - TC_script_01 -INFO - A new Browser is Opened
+2016-11-15 13:16:17,374 - TC_script_01 -INFO - TRAC application is launched ..
+2016-11-15 13:16:19,110 - LoginPage -INFO - User ID: 'apolson' is entered
+2016-11-15 13:16:20,210 - LoginPage -INFO - Password : '123' is entered
+2016-11-15 13:16:21,349 - LoginPage -INFO - Login button is clicked
+2016-11-15 13:16:23,369 - TC_script_01 -INFO - Successfully logged into the application. 
+2016-11-15 13:16:24,450 - TC_script_01 -INFO - Clicked 'Hamburger' icon 
+2016-11-15 13:16:25,531 - TC_script_01 -INFO - Clicked opportunity Main menu 
+2016-11-15 13:16:28,726 - TC_script_01 -INFO - Mouse hover is performed over workflow icon
+2016-11-15 13:16:44,494 - WorkflowPage -INFO - Clicked on Add Workflow
+2016-11-15 13:16:45,494 - TC_script_01 -INFO - Clicked on  Add workflow icon
+2016-11-15 13:16:46,104 - WorkflowPage -INFO - Workflow Name: 'Risk Mitigation check Workflow' is entered
+2016-11-15 13:16:47,275 - WorkflowPage -INFO - Workflow description: 'This Workflow is a Test Workflow' is entered
+2016-11-15 13:16:49,560 - WorkflowPage -INFO - Business Calendar: '2016' is entered
+2016-11-15 13:16:54,329 - WorkflowPage -INFO - SubWorkflow Name: 'Risk Mitigation Sub Workflow' is entered
+2016-11-15 13:16:55,489 - WorkflowPage -INFO - SubWorkflow Desc: 'This Sub-Workflow is a Test sub-Workflow' is entered
+2016-11-15 13:16:57,819 - WorkflowPage -INFO - User name: 'Sumesh' is entered
+2016-11-15 13:17:02,536 - WorkflowPage -INFO - Caption name: 'Opportunity Ref' is entered
+2016-11-15 13:17:03,671 - WorkflowPage -INFO - Datapoint name: 'Opportunity Ref' is entered
+2016-11-15 13:17:05,974 - WorkflowPage -INFO - Datapoint Type: 'Opportunity Dropdown' is entered
+2016-11-15 13:17:07,149 - WorkflowPage -INFO - OK button is clicked
+2016-11-15 13:17:08,251 - WorkflowPage -INFO - Finally, Save button is clicked !
+2016-11-15 13:17:13,357 - TC_script_01 -INFO - A new Workflow is created
+2016-11-15 13:17:13,547 - WorkflowPage -INFO - Clicked on Edit Workflow
+2016-11-15 13:17:14,547 - TC_script_01 -INFO - Workflow is edited succesfully
+2016-11-15 13:21:14,404 - TC_script_01 -INFO - A new Browser is Opened
+2016-11-15 13:21:18,351 - TC_script_01 -INFO - TRAC application is launched ..
+2016-11-15 13:21:20,155 - LoginPage -INFO - User ID: 'apolson' is entered
+2016-11-15 13:21:21,271 - LoginPage -INFO - Password : '123' is entered
+2016-11-15 13:21:22,429 - LoginPage -INFO - Login button is clicked
+2016-11-15 13:21:24,454 - TC_script_01 -INFO - Invalid User ID and password..
+2016-11-15 13:21:30,013 - TC_script_01 -INFO - Clicked 'Hamburger' icon 
+2016-11-15 13:21:31,133 - TC_script_01 -INFO - Clicked opportunity Main menu 
+2016-11-15 13:21:34,321 - TC_script_01 -INFO - Mouse hover is performed over workflow icon
+2016-11-15 13:21:35,994 - WorkflowPage -INFO - Clicked on Add Workflow
+2016-11-15 13:21:36,996 - TC_script_01 -INFO - Clicked on  Add workflow icon
+2016-11-15 13:21:37,934 - WorkflowPage -INFO - Workflow Name: 'Exchange check Workflow' is entered
+2016-11-15 13:21:39,093 - WorkflowPage -INFO - Workflow description: 'This Workflow is a Test Workflow' is entered
+2016-11-15 13:21:41,362 - WorkflowPage -INFO - Business Calendar: '2016' is entered
+2016-11-15 13:21:46,060 - WorkflowPage -INFO - SubWorkflow Name: 'Exchange Sub Workflow' is entered
+2016-11-15 13:21:47,233 - WorkflowPage -INFO - SubWorkflow Desc: 'This Sub-Workflow is a Test sub-Workflow' is entered
+2016-11-15 13:21:49,513 - WorkflowPage -INFO - User name: 'Sumesh' is entered
+2016-11-15 13:21:54,349 - WorkflowPage -INFO - Caption name: 'Opportunity Ref' is entered
+2016-11-15 13:21:55,489 - WorkflowPage -INFO - Datapoint name: 'Opportunity Ref' is entered
+2016-11-15 13:21:57,788 - WorkflowPage -INFO - Datapoint Type: 'Opportunity Dropdown' is entered
+2016-11-15 13:21:58,905 - WorkflowPage -INFO - OK button is clicked
+2016-11-15 13:22:00,017 - WorkflowPage -INFO - Finally, Save button is clicked !
+2016-11-15 13:22:05,117 - TC_script_01 -INFO - A new Workflow is created
+2016-11-15 13:22:05,308 - WorkflowPage -INFO - Clicked on Edit Workflow
+2016-11-15 13:22:06,309 - TC_script_01 -INFO - Workflow is edited succesfully
+2016-11-15 13:27:21,262 - TC_script_01 -INFO - A new Browser is Opened
+2016-11-15 13:27:26,202 - TC_script_01 -INFO - TRAC application is launched ..
+2016-11-15 17:48:36,722 - TC_script_01 -INFO - A new Browser is Opened
+2016-11-15 17:48:39,657 - TC_script_01 -INFO - TRAC application is launched ..
+2016-11-15 17:48:42,756 - LoginPage -INFO - User ID: 'apolson' is entered
+2016-11-15 17:48:43,885 - LoginPage -INFO - Password : '123' is entered
+2016-11-15 17:48:45,108 - LoginPage -INFO - Login button is clicked
+2016-11-15 17:48:47,768 - TC_script_01 -INFO - Successfully logged into the application. 
+2016-11-15 17:48:48,850 - TC_script_01 -INFO - Clicked 'Hamburger' icon 
+2016-11-15 17:48:49,978 - TC_script_01 -INFO - Clicked opportunity Main menu 
+2016-11-15 17:48:53,150 - TC_script_01 -INFO - Mouse hover is performed over workflow icon
+2016-11-15 17:48:55,097 - WorkflowPage -INFO - Clicked on Add Workflow
+2016-11-15 17:48:56,099 - TC_script_01 -INFO - Clicked on  Add workflow icon
+2016-11-15 17:48:56,963 - WorkflowPage -INFO - Workflow Name: 'Bulk Trade check Workflow' is entered
+2016-11-15 17:48:58,130 - WorkflowPage -INFO - Workflow description: 'This Workflow is a Test Workflow' is entered
+2016-11-15 17:49:00,396 - WorkflowPage -INFO - Business Calendar: '2016' is entered
+2016-11-15 17:49:05,169 - WorkflowPage -INFO - SubWorkflow Name: 'Bulk Trade Sub Workflow' is entered
+2016-11-15 17:49:06,338 - WorkflowPage -INFO - SubWorkflow Desc: 'This Sub-Workflow is a Test sub-Workflow' is entered
+2016-11-15 17:49:08,618 - WorkflowPage -INFO - User name: 'Sumesh' is entered
+2016-11-15 17:49:13,463 - WorkflowPage -INFO - Caption name: 'Opportunity Ref' is entered
+2016-11-15 17:49:14,619 - WorkflowPage -INFO - Datapoint name: 'Opportunity Ref' is entered
+2016-11-15 17:49:16,895 - WorkflowPage -INFO - Datapoint Type: 'Opportunity Dropdown' is entered
+2016-11-15 17:49:18,034 - WorkflowPage -INFO - OK button is clicked
+2016-11-15 17:49:19,225 - WorkflowPage -INFO - Finally, Save button is clicked !
+2016-11-15 17:49:24,292 - TC_script_01 -INFO - A new Workflow is created
+2016-11-15 17:49:24,495 - WorkflowPage -INFO - Clicked on Edit Workflow
+2016-11-15 17:49:25,495 - TC_script_01 -INFO - Workflow is edited succesfully
+2016-11-15 17:58:48,202 - TC_script_01 -INFO - A new Browser is Opened
+2016-11-15 17:58:51,449 - TC_script_01 -INFO - TRAC application is launched ..
+2016-11-15 17:58:53,284 - LoginPage -INFO - User ID: 'apolson' is entered
+2016-11-15 17:58:54,411 - LoginPage -INFO - Password : '123' is entered
+2016-11-15 17:58:55,633 - LoginPage -INFO - Login button is clicked
+2016-11-15 17:58:57,862 - TC_script_01 -INFO - Successfully logged into the application. 
+2016-11-15 17:58:58,948 - TC_script_01 -INFO - Clicked 'Hamburger' icon 
+2016-11-15 17:59:00,062 - TC_script_01 -INFO - Clicked opportunity Main menu 
+2016-11-15 17:59:03,189 - TC_script_01 -INFO - Mouse hover is performed over workflow icon
+2016-11-15 18:01:57,898 - TC_script_01 -INFO - A new Browser is Opened
+2016-11-15 18:01:59,896 - TC_script_01 -INFO - TRAC application is launched ..
+2016-11-15 18:02:01,663 - LoginPage -INFO - User ID: 'apolson' is entered
+2016-11-15 18:02:02,789 - LoginPage -INFO - Password : '123' is entered
+2016-11-15 18:02:03,985 - LoginPage -INFO - Login button is clicked
+2016-11-15 18:02:06,155 - TC_script_01 -INFO - Successfully logged into the application. 
+2016-11-15 18:02:07,233 - TC_script_01 -INFO - Clicked 'Hamburger' icon 
+2016-11-15 18:02:08,302 - TC_script_01 -INFO - Clicked opportunity Main menu 
+2016-11-15 18:02:11,522 - TC_script_01 -INFO - Mouse hover is performed over workflow icon
+2016-11-15 18:02:12,865 - WorkflowPage -INFO - Clicked on Add Workflow
+2016-11-15 18:02:13,867 - TC_script_01 -INFO - Clicked on  Add workflow icon
+2016-11-15 18:02:14,266 - WorkflowPage -INFO - Workflow Name: 'Cross  Workflow' is entered
+2016-11-15 18:02:15,407 - WorkflowPage -INFO - Workflow description: 'This Workflow is a Test Workflow' is entered
+2016-11-15 18:02:17,687 - WorkflowPage -INFO - Business Calendar: '2016' is entered
+2016-11-15 18:02:22,480 - WorkflowPage -INFO - SubWorkflow Name: 'Cross Sub Workflow' is entered
+2016-11-15 18:02:23,652 - WorkflowPage -INFO - SubWorkflow Desc: 'This Sub-Workflow is a Test sub-Workflow' is entered
+2016-11-15 18:02:25,899 - WorkflowPage -INFO - User name: 'Sumesh' is entered
+2016-11-15 18:02:30,686 - WorkflowPage -INFO - Caption name: 'Opportunity Ref' is entered
+2016-11-15 18:02:31,792 - WorkflowPage -INFO - Datapoint name: 'Opportunity Ref' is entered
+2016-11-15 18:02:34,066 - WorkflowPage -INFO - Datapoint Type: 'Opportunity Dropdown' is entered
+2016-11-15 18:02:35,226 - WorkflowPage -INFO - OK button is clicked
+2016-11-15 18:02:36,399 - WorkflowPage -INFO - Finally, Save button is clicked !
+2016-11-15 18:02:41,489 - TC_script_01 -INFO - A new Workflow is created
+2016-11-15 18:02:47,812 - WorkflowPage -INFO - Clicked on Edit Workflow
+2016-11-15 18:02:48,812 - TC_script_01 -INFO - Workflow is edited succesfully
+2016-11-15 19:13:53,619 - TC_script_01 -INFO - A new Browser is Opened
+2016-11-15 19:13:55,977 - TC_script_01 -INFO - TRAC application is launched ..
+2016-11-15 19:19:01,199 - TC_script_01 -INFO - A new Browser is Opened
+2016-11-15 19:19:04,053 - TC_script_01 -INFO - TRAC application is launched ..
+2016-11-15 19:20:13,279 - TC_script_01 -INFO - A new Browser is Opened
+2016-11-15 19:20:21,046 - TC_script_01 -INFO - TRAC application is launched ..
+2016-11-15 19:20:24,150 - LoginPage -INFO - User ID: 'apolson' is entered
+2016-11-15 19:20:25,261 - LoginPage -INFO - Password : '123' is entered
+2016-11-15 19:20:26,390 - LoginPage -INFO - Login button is clicked
+2016-11-15 19:20:28,836 - TC_script_01 -INFO - Successfully logged into the application. 
+2016-11-15 19:20:29,918 - TC_script_01 -INFO - Clicked 'Hamburger' icon 
+2016-11-15 19:20:30,993 - TC_script_01 -INFO - Clicked opportunity Main menu 
+2016-11-15 19:20:34,148 - TC_script_01 -INFO - Mouse hover is performed over workflow icon
+2016-11-15 19:20:35,381 - WorkflowPage -INFO - Clicked on Add Workflow
+2016-11-15 19:20:36,381 - TC_script_01 -INFO - Clicked on  Add workflow icon
+2016-11-15 19:20:36,744 - WorkflowPage -INFO - Workflow Name: 'Fund Workflow-1' is entered
+2016-11-15 19:20:37,980 - WorkflowPage -INFO - Workflow description: 'This Workflow is a Test Workflow' is entered
+2016-11-15 19:20:40,309 - WorkflowPage -INFO - Business Calendar: '2016' is entered
+2016-11-15 19:20:45,066 - WorkflowPage -INFO - SubWorkflow Name: 'Fund Sub Workflow-1' is entered
+2016-11-15 19:20:46,231 - WorkflowPage -INFO - SubWorkflow Desc: 'This Sub-Workflow is a Test sub-Workflow' is entered
+2016-11-15 19:20:48,520 - WorkflowPage -INFO - User name: 'Sumesh' is entered
+2016-11-15 19:20:53,304 - WorkflowPage -INFO - Caption name: 'Opportunity Ref' is entered
+2016-11-15 19:20:54,426 - WorkflowPage -INFO - Datapoint name: 'Opportunity Ref' is entered
+2016-11-15 19:20:56,751 - WorkflowPage -INFO - Datapoint Type: 'Opportunity Dropdown' is entered
+2016-11-15 19:20:57,864 - WorkflowPage -INFO - OK button is clicked
+2016-11-15 19:20:58,971 - WorkflowPage -INFO - Finally, Save button is clicked !
+2016-11-15 19:21:04,085 - TC_script_01 -INFO - A new Workflow is created
+2016-11-15 19:25:52,710 - TC_script_01 -INFO - A new Browser is Opened
+2016-11-15 19:26:02,535 - TC_script_01 -INFO - TRAC application is launched ..
+2016-11-15 19:26:08,669 - LoginPage -INFO - User ID: 'apolson' is entered
+2016-11-15 19:26:09,791 - LoginPage -INFO - Password : '123' is entered
+2016-11-15 19:26:10,948 - LoginPage -INFO - Login button is clicked
+2016-11-15 19:26:13,925 - TC_script_01 -INFO - Successfully logged into the application. 
+2016-11-15 19:26:15,015 - TC_script_01 -INFO - Clicked 'Hamburger' icon 
+2016-11-15 19:26:16,127 - TC_script_01 -INFO - Clicked opportunity Main menu 
+2016-11-15 19:26:21,447 - TC_script_01 -INFO - Mouse hover is performed over workflow icon
+2016-11-15 19:26:22,739 - WorkflowPage -INFO - Clicked on Add Workflow
+2016-11-15 19:26:23,739 - TC_script_01 -INFO - Clicked on  Add workflow icon
+2016-11-15 19:26:24,112 - WorkflowPage -INFO - Workflow Name: 'Fund Workflow-2' is entered
+2016-11-15 19:26:25,252 - WorkflowPage -INFO - Workflow description: 'This Workflow is a Test Workflow' is entered
+2016-11-15 19:26:27,510 - WorkflowPage -INFO - Business Calendar: '2016' is entered
+2016-11-15 19:26:32,251 - WorkflowPage -INFO - SubWorkflow Name: 'Fund Sub Workflow-2' is entered
+2016-11-15 19:26:33,379 - WorkflowPage -INFO - SubWorkflow Desc: 'This Sub-Workflow is a Test sub-Workflow' is entered
+2016-11-15 19:26:35,651 - WorkflowPage -INFO - User name: 'Sumesh' is entered
+2016-11-15 19:26:40,417 - WorkflowPage -INFO - Caption name: 'Opportunity Ref' is entered
+2016-11-15 19:26:41,588 - WorkflowPage -INFO - Datapoint name: 'Opportunity Ref' is entered
+2016-11-15 19:26:43,848 - WorkflowPage -INFO - Datapoint Type: 'Opportunity Dropdown' is entered
+2016-11-15 19:26:45,029 - WorkflowPage -INFO - OK button is clicked
+2016-11-15 19:26:46,165 - WorkflowPage -INFO - Finally, Save button is clicked !
+2016-11-15 19:26:51,270 - TC_script_01 -INFO - A new Workflow is created
+2016-11-15 19:31:53,926 - TC_script_01 -INFO - A new Browser is Opened
+2016-11-15 19:31:55,480 - TC_script_01 -INFO - TRAC application is launched ..
+2016-11-15 19:31:57,300 - LoginPage -INFO - User ID: 'apolson' is entered
+2016-11-15 19:31:58,429 - LoginPage -INFO - Password : '123' is entered
+2016-11-15 19:31:59,595 - LoginPage -INFO - Login button is clicked
+2016-11-15 19:32:01,880 - TC_script_01 -INFO - Successfully logged into the application. 
+2016-11-15 19:32:02,968 - TC_script_01 -INFO - Clicked 'Hamburger' icon 
+2016-11-15 19:32:04,095 - TC_script_01 -INFO - Clicked opportunity Main menu 
+2016-11-15 19:32:07,227 - TC_script_01 -INFO - Mouse hover is performed over workflow icon
+2016-11-15 19:32:08,460 - WorkflowPage -INFO - Clicked on Add Workflow
+2016-11-15 19:32:09,462 - TC_script_01 -INFO - Clicked on  Add workflow icon
+2016-11-15 19:32:09,693 - WorkflowPage -INFO - Workflow Name: 'Fund Workflow-3' is entered
+2016-11-15 19:32:10,829 - WorkflowPage -INFO - Workflow description: 'This Workflow is a Test Workflow' is entered
+2016-11-15 19:32:13,125 - WorkflowPage -INFO - Business Calendar: '2016' is entered
+2016-11-15 19:32:17,821 - WorkflowPage -INFO - SubWorkflow Name: 'Fund Sub Workflow-3' is entered
+2016-11-15 19:32:19,001 - WorkflowPage -INFO - SubWorkflow Desc: 'This Sub-Workflow is a Test sub-Workflow' is entered
+2016-11-15 19:32:21,268 - WorkflowPage -INFO - User name: 'Sumesh' is entered
+2016-11-15 19:32:26,042 - WorkflowPage -INFO - Caption name: 'Opportunity Ref' is entered
+2016-11-15 19:32:27,195 - WorkflowPage -INFO - Datapoint name: 'Opportunity Ref' is entered
+2016-11-15 19:32:29,495 - WorkflowPage -INFO - Datapoint Type: 'Opportunity Dropdown' is entered
+2016-11-15 19:32:30,658 - WorkflowPage -INFO - OK button is clicked
+2016-11-15 19:32:31,842 - WorkflowPage -INFO - Finally, Save button is clicked !
+2016-11-15 19:32:36,958 - TC_script_01 -INFO - A new Workflow is created
+2016-11-16 12:13:33,871 - TC_script_01 -INFO - A new Browser is Opened
+2016-11-16 12:13:36,016 - TC_script_01 -INFO - TRAC application is launched ..
+2016-11-16 12:13:38,027 - LoginPage -INFO - User ID: 'apolson' is entered
+2016-11-16 12:13:39,125 - LoginPage -INFO - Password : '123' is entered
+2016-11-16 12:13:40,249 - LoginPage -INFO - Login button is clicked
+2016-11-16 12:13:42,634 - TC_script_01 -INFO - Successfully logged into the application. 
+2016-11-16 12:13:43,724 - TC_script_01 -INFO - Clicked 'Hamburger' icon 
+2016-11-16 12:13:44,829 - TC_script_01 -INFO - Clicked opportunity Main menu 
+2016-11-16 12:13:48,050 - TC_script_01 -INFO - Mouse hover is performed over workflow icon
+2016-11-16 12:13:49,615 - WorkflowPage -INFO - Clicked on Add Workflow
+2016-11-16 12:13:50,616 - TC_script_01 -INFO - Clicked on  Add workflow icon
+2016-11-16 12:13:51,947 - WorkflowPage -INFO - Workflow Name: 'Shipment workflow 1' is entered
+2016-11-16 12:13:53,103 - WorkflowPage -INFO - Workflow description: 'This Workflow is a Test Workflow' is entered
+2016-11-16 12:13:55,375 - WorkflowPage -INFO - Business Calendar: '2016' is entered
+2016-11-16 12:14:00,158 - WorkflowPage -INFO - SubWorkflow Name: 'Shipment Sub workflow 1' is entered
+2016-11-16 12:14:01,319 - WorkflowPage -INFO - SubWorkflow Desc: 'This Sub-Workflow is a Test sub-Workflow' is entered
+2016-11-16 12:14:03,586 - WorkflowPage -INFO - User name: 'Sumesh' is entered
+2016-11-16 12:14:08,426 - WorkflowPage -INFO - Caption name: 'Opportunity Ref' is entered
+2016-11-16 12:14:09,575 - WorkflowPage -INFO - Datapoint name: 'Opportunity Ref' is entered
+2016-11-16 12:14:11,851 - WorkflowPage -INFO - Datapoint Type: 'Opportunity Dropdown' is entered
+2016-11-16 12:14:13,014 - WorkflowPage -INFO - OK button is clicked
+2016-11-16 12:14:14,094 - WorkflowPage -INFO - Finally, Save button is clicked !
+2016-11-16 12:14:19,163 - TC_script_01 -INFO - A new Workflow is created
+2016-11-16 12:19:11,056 - TC_script_01 -INFO - A new Browser is Opened
+2016-11-16 12:19:13,006 - TC_script_01 -INFO - TRAC application is launched ..
+2016-11-16 12:19:14,804 - LoginPage -INFO - User ID: 'apolson' is entered
+2016-11-16 12:19:15,920 - LoginPage -INFO - Password : '123' is entered
+2016-11-16 12:19:17,088 - LoginPage -INFO - Login button is clicked
+2016-11-16 12:19:19,240 - TC_script_01 -INFO - Successfully logged into the application. 
+2016-11-16 12:19:20,338 - TC_script_01 -INFO - Clicked 'Hamburger' icon 
+2016-11-16 12:19:21,442 - TC_script_01 -INFO - Clicked opportunity Main menu 
+2016-11-16 12:19:24,561 - TC_script_01 -INFO - Mouse hover is performed over workflow icon
+2016-11-16 12:19:27,181 - WorkflowPage -INFO - Clicked on Add Workflow
+2016-11-16 12:19:28,181 - TC_script_01 -INFO - Clicked on  Add workflow icon
+2016-11-16 12:19:28,837 - WorkflowPage -INFO - Workflow Name: 'Shipment workflow 2' is entered
+2016-11-16 12:19:29,963 - WorkflowPage -INFO - Workflow description: 'This Workflow is a Test Workflow' is entered
+2016-11-16 12:19:32,205 - WorkflowPage -INFO - Business Calendar: '2016' is entered
+2016-11-16 12:19:36,998 - WorkflowPage -INFO - SubWorkflow Name: 'Shipment Sub workflow 2' is entered
+2016-11-16 12:19:38,168 - WorkflowPage -INFO - SubWorkflow Desc: 'This Sub-Workflow is a Test sub-Workflow' is entered
+2016-11-16 12:19:40,444 - WorkflowPage -INFO - User name: 'Sumesh' is entered
+2016-11-16 12:19:45,238 - WorkflowPage -INFO - Caption name: 'Opportunity Ref' is entered
+2016-11-16 12:19:46,367 - WorkflowPage -INFO - Datapoint name: 'Opportunity Ref' is entered
+2016-11-16 12:19:48,635 - WorkflowPage -INFO - Datapoint Type: 'Opportunity Dropdown' is entered
+2016-11-16 12:19:49,769 - WorkflowPage -INFO - OK button is clicked
+2016-11-16 12:19:50,884 - WorkflowPage -INFO - Finally, Save button is clicked !
+2016-11-16 12:19:55,992 - TC_script_01 -INFO - A new Workflow is created
+2016-11-16 12:26:17,393 - TC_script_01 -INFO - A new Browser is Opened
+2016-11-16 12:26:19,927 - TC_script_01 -INFO - TRAC application is launched ..
+2016-11-16 12:26:21,731 - LoginPage -INFO - User ID: 'apolson' is entered
+2016-11-16 12:26:22,855 - LoginPage -INFO - Password : '123' is entered
+2016-11-16 12:26:23,958 - LoginPage -INFO - Login button is clicked
+2016-11-16 12:26:26,161 - TC_script_01 -INFO - Successfully logged into the application. 
+2016-11-16 12:26:27,241 - TC_script_01 -INFO - Clicked 'Hamburger' icon 
+2016-11-16 12:26:28,319 - TC_script_01 -INFO - Clicked opportunity Main menu 
+2016-11-16 12:26:31,511 - TC_script_01 -INFO - Mouse hover is performed over workflow icon
+2016-11-16 12:26:47,252 - WorkflowPage -INFO - Clicked on Add Workflow
+2016-11-16 12:26:48,253 - TC_script_01 -INFO - Clicked on  Add workflow icon
+2016-11-16 12:26:48,693 - WorkflowPage -INFO - Workflow Name: 'Scotya workflow' is entered
+2016-11-16 12:26:49,825 - WorkflowPage -INFO - Workflow description: 'This Workflow is a Test Workflow' is entered
+2016-11-16 12:26:52,089 - WorkflowPage -INFO - Business Calendar: '2016' is entered
+2016-11-16 12:26:56,853 - WorkflowPage -INFO - SubWorkflow Name: 'Scotya Sub workflow ' is entered
+2016-11-16 12:26:58,025 - WorkflowPage -INFO - SubWorkflow Desc: 'This Sub-Workflow is a Test sub-Workflow' is entered
+2016-11-16 12:27:00,286 - WorkflowPage -INFO - User name: 'Sumesh' is entered
+2016-11-16 12:27:04,991 - WorkflowPage -INFO - Caption name: 'Opportunity Ref' is entered
+2016-11-16 12:27:06,119 - WorkflowPage -INFO - Datapoint name: 'Opportunity Ref' is entered
+2016-11-16 12:27:08,379 - WorkflowPage -INFO - Datapoint Type: 'Opportunity Dropdown' is entered
+2016-11-16 12:27:09,537 - WorkflowPage -INFO - OK button is clicked
+2016-11-16 12:27:10,724 - WorkflowPage -INFO - Finally, Save button is clicked !
+2016-11-16 12:27:15,857 - TC_script_01 -INFO - A new Workflow is created
