@@ -67,11 +67,12 @@ public class OpportunityLandingPage extends ProjectRelatedFunctions
 	Logger logger=Logger.getLogger("OpportunityLandingPage");
 	
 	//Method 1: Click on Add Opportunity button
-	public void clickAddOpportunity() throws InterruptedException
+	public AddOpportunityPage clickAddOpportunity() throws InterruptedException
 	{		
 		clickButton(10,addOpportunityWebElmt);	
 		logger.info("Clicked on Add Opportunity button");
 		Thread.sleep(1000);
+		return PageFactory.initElements(driver, AddOpportunityPage.class);
 	}
 	
 	//Method 2: Click on Add Opportunity button

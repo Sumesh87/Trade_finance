@@ -22,7 +22,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 
 
-public class CommonFunctions extends ObjectRepository
+public class CommonFunctions 
 {
 	WebDriver driver=SingleTonDriver.getDriver();
 	
@@ -143,6 +143,16 @@ public class CommonFunctions extends ObjectRepository
 	 public String readExcel(String sheetName,int rownum,int colNum) throws IOException
 	 {
 		 FileInputStream fis=new FileInputStream(System.getProperty("user.dir")+"\\src\\main\\java\\com\\trac\\config\\TestData.xlsx");
+		 XSSFWorkbook workbook=new XSSFWorkbook(fis);
+		 XSSFSheet sheet=workbook.getSheet(sheetName);
+		 XSSFRow row=sheet.getRow(rownum);
+		 
+		 return row.getCell(colNum).toString();
+	 }
+	 
+	 public String readExcel1(String sheetName,int rownum,int colNum) throws IOException
+	 {
+		 FileInputStream fis=new FileInputStream(System.getProperty("user.dir")+"\\src\\main\\java\\com\\trac\\config\\Opportunities_Test_Data.xlsx");
 		 XSSFWorkbook workbook=new XSSFWorkbook(fis);
 		 XSSFSheet sheet=workbook.getSheet(sheetName);
 		 XSSFRow row=sheet.getRow(rownum);

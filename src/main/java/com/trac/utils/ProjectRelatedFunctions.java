@@ -14,7 +14,10 @@ public class ProjectRelatedFunctions extends CommonFunctions
 			
 	// Add Opportunity screen parameters
 	public String oppRefName;
+	public String requestorName;
+	public String typeName;
 	public String oppValue;
+	public String oppCurr;
 	public String expdate;
 	public String arrDate ;
 		

@@ -12,11 +12,13 @@ import org.testng.annotations.AfterSuite;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.BeforeTest;
+import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
 import com.relevantcodes.extentreports.ExtentReports;
 import com.relevantcodes.extentreports.ExtentTest;
 import com.relevantcodes.extentreports.LogStatus;
+import com.trac.pageObjects.AddOpportunityPage;
 import com.trac.pageObjects.LoginPage;
 import com.trac.pageObjects.OpportunityLandingPage;
 import com.trac.pageObjects.SubWorkflowPage;
@@ -28,14 +30,15 @@ import com.trac.utils.SingleTonDriver;
 
 public class TC_script_01 
 {
-	WebDriver driver;
-	CommonFunctions comFunct;
-	LoginPage logn;	
-	WorkspacePage workspace;	
-	WorkflowPage workflow;
-	SubWorkflowPage subWorkflow;
-	OpportunityLandingPage opportunityDisplay;
-	ExtentReports extent;
+	WebDriver driver=null;
+	CommonFunctions comFunct=null;
+	LoginPage logn=null;	
+	WorkspacePage workspace=null;	
+	WorkflowPage workflow=null;
+	SubWorkflowPage subWorkflow=null;
+	OpportunityLandingPage opportunityDisplay=null;
+	ExtentReports extent=null;
+	AddOpportunityPage addOpp=null;
 		
 	Logger logger=Logger.getLogger("TC_script_01");
 	
@@ -120,7 +123,7 @@ public class TC_script_01
 		
 	}	
 	
-	@Test(priority=1,enabled=true)
+	@Test(priority=1,enabled=false)
 	public void TC_02_workflow() throws InterruptedException
 	{
 		try 
@@ -154,8 +157,8 @@ public class TC_script_01
 			test2.log(LogStatus.INFO, "Snapshot below: " + test2.addScreenCapture(workFlowInScreenSht));
 			test2.log(LogStatus.PASS, "A new Workflow is created");
 			
-//			workflow.edit_Workflow();
-//			logger.info("Workflow is edited succesfully");	
+			workflow.edit_Workflow();
+			logger.info("Workflow is edited succesfully");	
 			extent.endTest(test2);
 		} 
 		catch (Exception e) 
@@ -190,12 +193,12 @@ public class TC_script_01
 		}		
 	}
 	
-	@Test(priority=3,enabled=false)
+	@Test(priority=3,enabled=true)
 	public void TC_04_create_Opportunity() throws InterruptedException
 	{
 		try 
 		{		
-			ExtentTest test4=extent.startTest("TC_04_create_Opportunity");
+			//ExtentTest test4=extent.startTest("TC_04_create_Opportunity");
 			workspace.clickHamburger();
 			logger.info("Clicked Hamburger icon ");
 			
@@ -204,11 +207,15 @@ public class TC_script_01
 			
 			opportunityDisplay=workspace.navigateToOpportunity();
 			
-			//opportunityDisplay.clickAddOpportunity();
-			//opportunityDisplay.clickLastPage();
-			logger.info("Clicked last page on Opportunity page");
+			addOpp=opportunityDisplay.clickAddOpportunity();
+			//test4.log(LogStatus.INFO, "Clicked on Add Opportunity button ");
 			
-			extent.endTest(test4);
+			addOpp.create_opportunity();
+			
+			//opportunityDisplay.clickLastPage();
+			//logger.info("Clicked last page on Opportunity page");
+			
+			//extent.endTest(test4);
 		} 
 		catch (Exception e) 
 		{						
@@ -218,7 +225,14 @@ public class TC_script_01
 		}		
 	}
 	
-	@Test(priority=4,enabled=true)
+//	@DataProvider(name="oppMethod")
+//	public Object[][] getData() 
+//	{
+//		Object[][] arrayObject = readExcel("sheet1",1,1);
+//		return arrayObject;
+//	}
+	
+	@Test(priority=4,enabled=false)
 	public void TC_05_signOut() 
 	{
 		try 
@@ -252,7 +266,7 @@ public class TC_script_01
 	@AfterSuite(enabled=true)
 	public void tearDown() throws Exception 
 	{		
-		driver.quit();
+		//driver.quit();
 	}
 	
 }
