@@ -263,10 +263,10 @@ public class TC_script_01
 		extent.close();
 	}
 	
-	@AfterSuite(enabled=true)
+	@AfterSuite(enabled=false)
 	public void tearDown() throws Exception 
 	{		
-		//driver.quit();
+		driver.quit();
 	}
 	
 }

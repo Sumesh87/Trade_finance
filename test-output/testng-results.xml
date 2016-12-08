@@ -2,32 +2,32 @@
 <testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="114154" started-at="2016-11-30T12:06:11Z" finished-at="2016-11-30T12:08:05Z">
+  <suite name="Default suite" duration-ms="31528" started-at="2016-12-02T10:56:00Z" finished-at="2016-12-02T10:56:32Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="114154" started-at="2016-11-30T12:06:11Z" finished-at="2016-11-30T12:08:05Z">
+    <test name="Default test" duration-ms="31528" started-at="2016-12-02T10:56:00Z" finished-at="2016-12-02T10:56:32Z">
       <class name="TC_script_01">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:TC_script_01@e45f292]" name="setUp" is-config="true" duration-ms="8945" started-at="2016-11-30T17:36:02Z" finished-at="2016-11-30T17:36:11Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:TC_script_01@e45f292]" name="setUp" is-config="true" duration-ms="6978" started-at="2016-12-02T16:25:53Z" finished-at="2016-12-02T16:26:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="startReport()[pri:0, instance:TC_script_01@e45f292]" name="startReport" is-config="true" duration-ms="151" started-at="2016-11-30T17:36:11Z" finished-at="2016-11-30T17:36:11Z">
+        <test-method status="PASS" signature="startReport()[pri:0, instance:TC_script_01@e45f292]" name="startReport" is-config="true" duration-ms="149" started-at="2016-12-02T16:26:00Z" finished-at="2016-12-02T16:26:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startReport -->
-        <test-method status="PASS" signature="TC_01_login()[pri:0, instance:TC_script_01@e45f292]" name="TC_01_login" duration-ms="4905" started-at="2016-11-30T17:36:11Z" finished-at="2016-11-30T17:36:16Z">
+        <test-method status="PASS" signature="TC_01_login()[pri:0, instance:TC_script_01@e45f292]" name="TC_01_login" duration-ms="4914" started-at="2016-12-02T16:26:00Z" finished-at="2016-12-02T16:26:05Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_01_login -->
-        <test-method status="PASS" signature="TC_04_create_Opportunity()[pri:3, instance:TC_script_01@e45f292]" name="TC_04_create_Opportunity" duration-ms="108864" started-at="2016-11-30T17:36:16Z" finished-at="2016-11-30T17:38:05Z">
+        <test-method status="PASS" signature="TC_04_create_Opportunity()[pri:3, instance:TC_script_01@e45f292]" name="TC_04_create_Opportunity" duration-ms="26245" started-at="2016-12-02T16:26:05Z" finished-at="2016-12-02T16:26:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC_04_create_Opportunity -->
-        <test-method status="PASS" signature="endReport()[pri:0, instance:TC_script_01@e45f292]" name="endReport" is-config="true" duration-ms="220" started-at="2016-11-30T17:38:05Z" finished-at="2016-11-30T17:38:05Z">
+        <test-method status="PASS" signature="endReport()[pri:0, instance:TC_script_01@e45f292]" name="endReport" is-config="true" duration-ms="208" started-at="2016-12-02T16:26:31Z" finished-at="2016-12-02T16:26:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- endReport -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:TC_script_01@e45f292]" name="tearDown" is-config="true" duration-ms="0" started-at="2016-11-30T17:38:05Z" finished-at="2016-11-30T17:38:05Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TC_script_01@e45f292]" name="tearDown" is-config="true" duration-ms="0" started-at="2016-12-02T16:26:32Z" finished-at="2016-12-02T16:26:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

@@ -170,6 +170,13 @@ public class CommonFunctions
 	     FileUtils.copyFile(source, destination);        
 	     return dest;
 	 }
+	 
+	// Element highlighter code
+	 public void highLightElement(WebDriver driver, WebElement element)
+	 {
+		 JavascriptExecutor js=(JavascriptExecutor)driver; 	  
+		 js.executeScript("arguments[0].setAttribute('style', 'background: yellow; border: 2px solid red;');", element);
+	 }
 	
 	// Close the Browser
 	public void closebrowser() 

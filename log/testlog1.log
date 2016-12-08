@@ -1444,3 +1444,179 @@
 2016-11-30 17:36:26,229 [main] INFO AddOpportunityPage - Type name: 'Related Parties' is Selected
 2016-11-30 17:36:29,077 [main] INFO AddOpportunityPage - Opportunity Value: '200.25' is entered
 2016-11-30 17:36:30,476 [main] INFO AddOpportunityPage - Currency: 'AUD' is entered
+2016-12-01 14:41:55,280 [main] INFO TC_script_01 - A new Browser is Opened
+2016-12-01 14:42:10,718 [main] INFO TC_script_01 - TRAC application is launched ..
+2016-12-01 14:43:08,827 [main] INFO TC_script_01 - A new Browser is Opened
+2016-12-01 14:43:13,081 [main] INFO TC_script_01 - TRAC application is launched ..
+2016-12-01 14:43:19,732 [main] INFO LoginPage - User ID: 'Priya' is entered
+2016-12-01 14:43:20,861 [main] INFO LoginPage - Password : '123' is entered
+2016-12-01 14:43:22,116 [main] INFO LoginPage - Login button is clicked
+2016-12-01 14:43:24,757 [main] INFO TC_script_01 - Successfully logged into the application. 
+2016-12-01 14:43:25,894 [main] INFO TC_script_01 - Clicked Hamburger icon 
+2016-12-01 14:43:27,018 [main] INFO TC_script_01 - Clicked Opportunity Main icon 
+2016-12-01 14:43:27,734 [main] INFO OpportunityLandingPage - Clicked on Add Opportunity button
+2016-12-01 14:43:30,654 [main] INFO AddOpportunityPage - Opportunity Ref name: 'RM-002' is entered
+2016-12-01 14:43:31,862 [main] INFO AddOpportunityPage - Requestor name: 'Exporter' is Selected
+2016-12-01 14:43:34,143 [main] INFO AddOpportunityPage - Type name: 'Related Parties' is Selected
+2016-12-01 14:43:36,938 [main] INFO AddOpportunityPage - Opportunity Value: '400.25' is entered
+2016-12-01 14:43:38,265 [main] INFO AddOpportunityPage - Currency: 'AUD' is entered
+2016-12-01 15:11:24,261 [main] INFO TC_script_01 - A new Browser is Opened
+2016-12-01 15:11:28,134 [main] INFO TC_script_01 - TRAC application is launched ..
+2016-12-01 15:11:29,951 [main] INFO LoginPage - User ID: 'Priya' is entered
+2016-12-01 15:11:31,078 [main] INFO LoginPage - Password : '123' is entered
+2016-12-01 15:11:32,267 [main] INFO LoginPage - Login button is clicked
+2016-12-01 15:11:36,030 [main] INFO TC_script_01 - Successfully logged into the application. 
+2016-12-01 15:11:37,116 [main] INFO TC_script_01 - Clicked Hamburger icon 
+2016-12-01 15:11:38,201 [main] INFO TC_script_01 - Clicked Opportunity Main icon 
+2016-12-01 15:11:39,178 [main] INFO OpportunityLandingPage - Clicked on Add Opportunity button
+2016-12-01 15:11:41,473 [main] INFO AddOpportunityPage - Opportunity Ref name: 'RM-002' is entered
+2016-12-01 15:11:42,691 [main] INFO AddOpportunityPage - Requestor name: 'Exporter' is Selected
+2016-12-01 15:11:45,060 [main] INFO AddOpportunityPage - Type name: 'Related Parties' is Selected
+2016-12-01 15:11:47,654 [main] INFO AddOpportunityPage - Opportunity Value: '400.25' is entered
+2016-12-01 15:11:49,033 [main] INFO AddOpportunityPage - Currency: 'AUD' is entered
+2016-12-01 15:17:25,503 [main] INFO TC_script_01 - A new Browser is Opened
+2016-12-01 15:17:28,021 [main] INFO TC_script_01 - TRAC application is launched ..
+2016-12-01 15:17:29,851 [main] INFO LoginPage - User ID: 'Priya' is entered
+2016-12-01 15:17:30,970 [main] INFO LoginPage - Password : '123' is entered
+2016-12-01 15:17:32,154 [main] INFO LoginPage - Login button is clicked
+2016-12-01 15:17:34,179 [main] INFO TC_script_01 - Invalid User ID and password..
+2016-12-01 15:17:36,749 [main] INFO TC_script_01 - Clicked Hamburger icon 
+2016-12-01 15:17:37,828 [main] INFO TC_script_01 - Clicked Opportunity Main icon 
+2016-12-01 15:17:39,877 [main] INFO OpportunityLandingPage - Clicked on Add Opportunity button
+2016-12-01 15:17:43,035 [main] INFO AddOpportunityPage - Opportunity Ref name: 'RM-002' is entered
+2016-12-01 15:17:44,265 [main] INFO AddOpportunityPage - Requestor name: 'Exporter' is Selected
+2016-12-01 15:17:46,530 [main] INFO AddOpportunityPage - Type name: 'Related Parties' is Selected
+2016-12-01 15:17:49,345 [main] INFO AddOpportunityPage - Opportunity Value: '400.25' is entered
+2016-12-01 15:17:50,729 [main] INFO AddOpportunityPage - Currency: 'AUD' is entered
+2016-12-02 12:00:20,412 [main] INFO TC_script_01 - A new Browser is Opened
+2016-12-02 12:00:22,888 [main] INFO TC_script_01 - TRAC application is launched ..
+2016-12-02 12:00:25,292 [main] INFO LoginPage - User ID: 'Priya' is entered
+2016-12-02 12:00:26,406 [main] INFO LoginPage - Password : '123' is entered
+2016-12-02 12:00:27,584 [main] INFO LoginPage - Login button is clicked
+2016-12-02 12:00:29,752 [main] INFO TC_script_01 - Invalid User ID and password..
+2016-12-02 12:00:32,810 [main] INFO TC_script_01 - Clicked Hamburger icon 
+2016-12-02 12:00:33,929 [main] INFO TC_script_01 - Clicked Opportunity Main icon 
+2016-12-02 12:00:35,256 [main] INFO OpportunityLandingPage - Clicked on Add Opportunity button
+2016-12-02 12:00:39,914 [main] INFO AddOpportunityPage - Opportunity Ref name: 'RM-002' is entered
+2016-12-02 12:00:41,245 [main] INFO AddOpportunityPage - Requestor name: 'Exporter' is Selected
+2016-12-02 12:04:19,115 [main] INFO TC_script_01 - A new Browser is Opened
+2016-12-02 12:04:21,356 [main] INFO TC_script_01 - TRAC application is launched ..
+2016-12-02 12:04:23,258 [main] INFO LoginPage - User ID: 'Priya' is entered
+2016-12-02 12:04:24,396 [main] INFO LoginPage - Password : '123' is entered
+2016-12-02 12:04:25,525 [main] INFO LoginPage - Login button is clicked
+2016-12-02 12:04:27,915 [main] INFO TC_script_01 - Successfully logged into the application. 
+2016-12-02 12:04:29,030 [main] INFO TC_script_01 - Clicked Hamburger icon 
+2016-12-02 12:04:30,156 [main] INFO TC_script_01 - Clicked Opportunity Main icon 
+2016-12-02 12:04:30,867 [main] INFO OpportunityLandingPage - Clicked on Add Opportunity button
+2016-12-02 12:04:32,980 [main] INFO AddOpportunityPage - Opportunity Ref name: 'RM-002' is entered
+2016-12-02 12:04:34,193 [main] INFO AddOpportunityPage - Requestor name: 'Exporter' is Selected
+2016-12-02 12:06:38,667 [main] INFO TC_script_01 - A new Browser is Opened
+2016-12-02 12:06:40,120 [main] INFO TC_script_01 - TRAC application is launched ..
+2016-12-02 12:06:42,003 [main] INFO LoginPage - User ID: 'Priya' is entered
+2016-12-02 12:06:43,122 [main] INFO LoginPage - Password : '123' is entered
+2016-12-02 12:06:44,309 [main] INFO LoginPage - Login button is clicked
+2016-12-02 12:06:46,498 [main] INFO TC_script_01 - Successfully logged into the application. 
+2016-12-02 12:06:47,577 [main] INFO TC_script_01 - Clicked Hamburger icon 
+2016-12-02 12:06:48,693 [main] INFO TC_script_01 - Clicked Opportunity Main icon 
+2016-12-02 12:06:49,692 [main] INFO OpportunityLandingPage - Clicked on Add Opportunity button
+2016-12-02 12:06:52,622 [main] INFO AddOpportunityPage - Opportunity Ref name: 'RM-002' is entered
+2016-12-02 12:06:53,878 [main] INFO AddOpportunityPage - Requestor name: 'Exporter' is Selected
+2016-12-02 16:02:51,908 [main] INFO TC_script_01 - A new Browser is Opened
+2016-12-02 16:02:55,650 [main] INFO TC_script_01 - TRAC application is launched ..
+2016-12-02 16:03:07,348 [main] INFO LoginPage - User ID: 'Priya' is entered
+2016-12-02 16:03:08,477 [main] INFO LoginPage - Password : '123' is entered
+2016-12-02 16:03:09,948 [main] INFO LoginPage - Login button is clicked
+2016-12-02 16:03:22,377 [main] INFO TC_script_01 - Successfully logged into the application. 
+2016-12-02 16:03:23,490 [main] INFO TC_script_01 - Clicked Hamburger icon 
+2016-12-02 16:03:24,822 [main] INFO TC_script_01 - Clicked Opportunity Main icon 
+2016-12-02 16:03:30,074 [main] INFO OpportunityLandingPage - Clicked on Add Opportunity button
+2016-12-02 16:03:32,662 [main] INFO AddOpportunityPage - Opportunity Ref name: 'RM-002' is entered
+2016-12-02 16:03:33,845 [main] INFO AddOpportunityPage - Requestor name: 'Exporter' is Selected
+2016-12-02 16:03:39,657 [main] INFO AddOpportunityPage - Opportunity Value: '400.25' is entered
+2016-12-02 16:10:09,003 [main] INFO TC_script_01 - A new Browser is Opened
+2016-12-02 16:10:10,992 [main] INFO TC_script_01 - TRAC application is launched ..
+2016-12-02 16:10:12,799 [main] INFO LoginPage - User ID: 'Priya' is entered
+2016-12-02 16:10:13,919 [main] INFO LoginPage - Password : '123' is entered
+2016-12-02 16:10:15,048 [main] INFO LoginPage - Login button is clicked
+2016-12-02 16:10:17,332 [main] INFO TC_script_01 - Successfully logged into the application. 
+2016-12-02 16:10:18,422 [main] INFO TC_script_01 - Clicked Hamburger icon 
+2016-12-02 16:10:19,523 [main] INFO TC_script_01 - Clicked Opportunity Main icon 
+2016-12-02 16:10:20,774 [main] INFO OpportunityLandingPage - Clicked on Add Opportunity button
+2016-12-02 16:10:23,378 [main] INFO AddOpportunityPage - Opportunity Ref name: 'RM-002' is entered
+2016-12-02 16:10:24,598 [main] INFO AddOpportunityPage - Requestor name: 'Exporter' is Selected
+2016-12-02 16:10:28,050 [main] INFO AddOpportunityPage - Opportunity Value: '400.25' is entered
+2016-12-02 16:10:53,558 [main] INFO TC_script_01 - A new Browser is Opened
+2016-12-02 16:10:55,023 [main] INFO TC_script_01 - TRAC application is launched ..
+2016-12-02 16:10:56,916 [main] INFO LoginPage - User ID: 'Priya' is entered
+2016-12-02 16:10:58,048 [main] INFO LoginPage - Password : '123' is entered
+2016-12-02 16:10:59,167 [main] INFO LoginPage - Login button is clicked
+2016-12-02 16:11:01,409 [main] INFO TC_script_01 - Successfully logged into the application. 
+2016-12-02 16:11:02,490 [main] INFO TC_script_01 - Clicked Hamburger icon 
+2016-12-02 16:11:03,572 [main] INFO TC_script_01 - Clicked Opportunity Main icon 
+2016-12-02 16:11:04,202 [main] INFO OpportunityLandingPage - Clicked on Add Opportunity button
+2016-12-02 16:11:29,877 [main] INFO AddOpportunityPage - Opportunity Ref name: 'RM-002' is entered
+2016-12-02 16:12:14,499 [main] INFO TC_script_01 - A new Browser is Opened
+2016-12-02 16:12:16,006 [main] INFO TC_script_01 - TRAC application is launched ..
+2016-12-02 16:12:17,825 [main] INFO LoginPage - User ID: 'Priya' is entered
+2016-12-02 16:12:18,955 [main] INFO LoginPage - Password : '123' is entered
+2016-12-02 16:12:20,139 [main] INFO LoginPage - Login button is clicked
+2016-12-02 16:12:22,319 [main] INFO TC_script_01 - Successfully logged into the application. 
+2016-12-02 16:12:23,397 [main] INFO TC_script_01 - Clicked Hamburger icon 
+2016-12-02 16:12:24,466 [main] INFO TC_script_01 - Clicked Opportunity Main icon 
+2016-12-02 16:12:25,367 [main] INFO OpportunityLandingPage - Clicked on Add Opportunity button
+2016-12-02 16:12:28,101 [main] INFO AddOpportunityPage - Opportunity Ref name: 'RM-002' is entered
+2016-12-02 16:12:29,313 [main] INFO AddOpportunityPage - Requestor name: 'Exporter' is Selected
+2016-12-02 16:12:32,815 [main] INFO AddOpportunityPage - Opportunity Value: '400.25' is entered
+2016-12-02 16:14:26,265 [main] INFO TC_script_01 - A new Browser is Opened
+2016-12-02 16:14:28,342 [main] INFO TC_script_01 - TRAC application is launched ..
+2016-12-02 16:14:30,104 [main] INFO LoginPage - User ID: 'Priya' is entered
+2016-12-02 16:14:31,227 [main] INFO LoginPage - Password : '123' is entered
+2016-12-02 16:14:32,348 [main] INFO LoginPage - Login button is clicked
+2016-12-02 16:14:34,527 [main] INFO TC_script_01 - Successfully logged into the application. 
+2016-12-02 16:14:35,606 [main] INFO TC_script_01 - Clicked Hamburger icon 
+2016-12-02 16:14:36,707 [main] INFO TC_script_01 - Clicked Opportunity Main icon 
+2016-12-02 16:14:37,483 [main] INFO OpportunityLandingPage - Clicked on Add Opportunity button
+2016-12-02 16:14:39,431 [main] INFO AddOpportunityPage - Opportunity Ref name: 'RM-002' is entered
+2016-12-02 16:14:40,714 [main] INFO AddOpportunityPage - Requestor name: 'Exporter' is Selected
+2016-12-02 16:14:44,161 [main] INFO AddOpportunityPage - Opportunity Value: '400.25' is entered
+2016-12-02 16:19:22,300 [main] INFO TC_script_01 - A new Browser is Opened
+2016-12-02 16:19:24,348 [main] INFO TC_script_01 - TRAC application is launched ..
+2016-12-02 16:19:33,303 [main] INFO TC_script_01 - A new Browser is Opened
+2016-12-02 16:19:35,261 [main] INFO TC_script_01 - TRAC application is launched ..
+2016-12-02 16:19:37,144 [main] INFO LoginPage - User ID: 'Priya' is entered
+2016-12-02 16:19:38,276 [main] INFO LoginPage - Password : '123' is entered
+2016-12-02 16:19:39,380 [main] INFO LoginPage - Login button is clicked
+2016-12-02 16:19:41,558 [main] INFO TC_script_01 - Successfully logged into the application. 
+2016-12-02 16:19:42,637 [main] INFO TC_script_01 - Clicked Hamburger icon 
+2016-12-02 16:19:43,742 [main] INFO TC_script_01 - Clicked Opportunity Main icon 
+2016-12-02 16:19:44,715 [main] INFO OpportunityLandingPage - Clicked on Add Opportunity button
+2016-12-02 16:19:56,591 [main] INFO AddOpportunityPage - Opportunity Ref name: 'RM-002' is entered
+2016-12-02 16:20:20,769 [main] INFO AddOpportunityPage - Requestor name: 'Exporter' is Selected
+2016-12-02 16:21:14,720 [main] INFO AddOpportunityPage - Type name: 'Related Parties' is Selected
+2016-12-02 16:21:51,889 [main] INFO AddOpportunityPage - Opportunity Value: '400.25' is entered
+2016-12-02 16:24:23,089 [main] INFO TC_script_01 - A new Browser is Opened
+2016-12-02 16:24:24,609 [main] INFO TC_script_01 - TRAC application is launched ..
+2016-12-02 16:24:26,417 [main] INFO LoginPage - User ID: 'Priya' is entered
+2016-12-02 16:24:27,542 [main] INFO LoginPage - Password : '123' is entered
+2016-12-02 16:24:28,758 [main] INFO LoginPage - Login button is clicked
+2016-12-02 16:24:31,028 [main] INFO TC_script_01 - Successfully logged into the application. 
+2016-12-02 16:24:32,112 [main] INFO TC_script_01 - Clicked Hamburger icon 
+2016-12-02 16:24:33,230 [main] INFO TC_script_01 - Clicked Opportunity Main icon 
+2016-12-02 16:24:33,936 [main] INFO OpportunityLandingPage - Clicked on Add Opportunity button
+2016-12-02 16:24:36,607 [main] INFO AddOpportunityPage - Opportunity Ref name: 'RM-002' is entered
+2016-12-02 16:24:37,871 [main] INFO AddOpportunityPage - Requestor name: 'Exporter' is Selected
+2016-12-02 16:24:51,821 [main] INFO AddOpportunityPage - Opportunity Value: '400.25' is entered
+2016-12-02 16:25:57,476 [main] INFO TC_script_01 - A new Browser is Opened
+2016-12-02 16:25:59,385 [main] INFO TC_script_01 - TRAC application is launched ..
+2016-12-02 16:26:01,176 [main] INFO LoginPage - User ID: 'Priya' is entered
+2016-12-02 16:26:02,290 [main] INFO LoginPage - Password : '123' is entered
+2016-12-02 16:26:03,407 [main] INFO LoginPage - Login button is clicked
+2016-12-02 16:26:05,641 [main] INFO TC_script_01 - Successfully logged into the application. 
+2016-12-02 16:26:06,719 [main] INFO TC_script_01 - Clicked Hamburger icon 
+2016-12-02 16:26:07,833 [main] INFO TC_script_01 - Clicked Opportunity Main icon 
+2016-12-02 16:26:08,627 [main] INFO OpportunityLandingPage - Clicked on Add Opportunity button
+2016-12-02 16:26:15,406 [main] INFO AddOpportunityPage - Opportunity Ref name: 'RM-002' is entered
+2016-12-02 16:26:16,637 [main] INFO AddOpportunityPage - Requestor name: 'Exporter' is Selected
+2016-12-02 16:26:20,049 [main] INFO AddOpportunityPage - Type name: 'Related Parties' is Selected
+2016-12-02 16:26:23,479 [main] INFO AddOpportunityPage - Opportunity Value: '400.25' is entered
+2016-12-02 16:26:24,811 [main] INFO AddOpportunityPage - Currency: 'AUD' is entered

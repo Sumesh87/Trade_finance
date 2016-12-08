@@ -22,6 +22,8 @@ public class AddOpportunityPage extends ProjectRelatedFunctions
 {
 	private WebDriver driver;
 	
+		
+	// Invoking the constructor
 	public AddOpportunityPage(WebDriver driver)
 	{
 		this.driver=driver;
@@ -40,6 +42,9 @@ public class AddOpportunityPage extends ProjectRelatedFunctions
 	
 	@FindBy(how = How.XPATH, using = ".//select[@id='deal_type']")
 	private WebElement typeWebElmt;
+	
+	@FindBy(how = How.XPATH, using = ".//*[@id='s2id_deal_type']/a/span[2]/b")
+	private WebElement typedrpWebElmt;
 	
 	@FindBy(how = How.CSS, using = ".//*[id^='s2id_'][id$='search']")
 	private WebElement typeSearchWebElmt;
@@ -80,13 +85,12 @@ public class AddOpportunityPage extends ProjectRelatedFunctions
 	@FindBy(how = How.XPATH, using = "//span[@data-ng-click='cancel_search()']")
 	private WebElement closeGridWebElmt;	
 	
-	@FindBy(how = How.XPATH, using = ".//*[@id='deal_dynamic_fields']/div")
-	private WebElement all_Avail_Grid;	
-	
 	@FindBy(how = How.XPATH, using = ".//*[@id='save_deal']")
 	private WebElement saveOppWebElmt;
-	
-	
+			
+	// Total number of Grids ...
+	public String lstr_totalGrid=".//div[@class='side_label']";
+	public String lstr_links="";
     	
 	// configure log4j properties file	
 	Logger logger=Logger.getLogger("AddOpportunityPage");
@@ -94,12 +98,15 @@ public class AddOpportunityPage extends ProjectRelatedFunctions
 	//List<WebElement> lstGrid=Collections.emptyList();
 	List<WebElement> lstGrid=null;
 	
-	//Method 1: To enter details..
+	// Method 1: To enter details..
 	public void create_opportunity() throws InterruptedException
 	{
 		try 
 		{
-			oppRefName=readExcel("Sheet4",1,1);				
+			oppRefName=readExcel("Sheet4",1,1);	
+			
+			//highLightElement(driver,oppReferenceWebElmt);
+			
 			setValue(10,oppReferenceWebElmt,oppRefName);
 			logger.info("Opportunity Ref name: '" + oppRefName + "' is entered");
 			Thread.sleep(1000);				
@@ -113,16 +120,33 @@ public class AddOpportunityPage extends ProjectRelatedFunctions
 			requestorSearchWebElmt.sendKeys(Keys.TAB);
 			Thread.sleep(1000);	
 			
-			// Choose data from Type dropdown
-			typeName=readExcel("Sheet4",1,4);			
-			JavascriptExecutor js=(JavascriptExecutor) driver;			
-			js.executeScript("document.getElementById('deal_type').style.display='block';");
+			try 
+			{
+				// Choose data from Type dropdown
+				typeName=readExcel("Sheet4",1,4);			
+				JavascriptExecutor js=(JavascriptExecutor) driver;			
+				
+												
+				clickButton(10,typedrpWebElmt);
+				Thread.sleep(1000);
+				
+				//js.executeScript("document.getElementsByClassName('select2-input.select2-focused').value = 'Related Parties';");
+				js.executeScript("document.getElementById('deal_type').style.display='block';");
+				
+//				setValue(10,typeSearchWebElmt,typeName);
+//				typeSearchWebElmt.sendKeys(Keys.TAB);
+				
+				Select se=new Select(typeWebElmt);
+				se.selectByVisibleText(typeName);			 
+				logger.info("Type name: '" + typeName + "' is Selected");
+				Thread.sleep(1000);
+			} 
+			catch (Exception e) 
+			{
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
 						
-			Select se=new Select(typeWebElmt);
-			se.selectByVisibleText(typeName);			 
-			logger.info("Type name: '" + typeName + "' is Selected");
-			Thread.sleep(1000);	
-			
 			// Enter data in Opportunity Value field
 			oppValue=readExcel("Sheet4",1,5);	
 			oppValueWebElmt.clear();
@@ -152,8 +176,10 @@ public class AddOpportunityPage extends ProjectRelatedFunctions
 //			searchGridWebElmt.sendKeys(Keys.ENTER);
 //			Thread.sleep(1000);						
 						
-			find_Grids();
-			clickButton(10,saveOppWebElmt);
+			//fill_Grids();
+			
+			// Save the opportunity
+			//clickButton(10,saveOppWebElmt);
 			Thread.sleep(6000);
 			
 			
@@ -166,32 +192,37 @@ public class AddOpportunityPage extends ProjectRelatedFunctions
 		}	
 	}
 	
-	//Method 2: find total number of Grid
-	public void find_Grids() throws InterruptedException
+	// Method 2: find total number of Grid
+	public void fill_Grids() throws InterruptedException
 	{
-		String totalGrid=".//div[@class='side_label']";
-        WebElement  table_element = driver.findElement(By.xpath(totalGrid));
-        
-        lstGrid=driver.findElements(By.xpath(totalGrid));
-        System.out.println("Number OF Grids = "+ lstGrid.size());
+		//Declaration
+		//String lstr_totalGrid=".//div[@class='side_label']";
+		//String lstr_links="";				
+		
+        lstGrid=driver.findElements(By.xpath(lstr_totalGrid));
+        System.out.println("Number Of Grids = "+ lstGrid.size());
         
 		for(int i=1;i<=lstGrid.size();i++)	
 		{
-			String links=totalGrid + "["+ i + "]/span[1]";
-			driver.findElement(By.xpath(links)).click();
+			lstr_links =lstr_totalGrid + "["+ i + "]/span[1]";
+			driver.findElement(By.xpath(lstr_links)).click();
 			Thread.sleep(1000);	
+			
+			// Click 'Add' button to add items to grid
 			add_Items_Grids();
-			Thread.sleep(5000);
+			Thread.sleep(3500);
 		}
 	}
 	
-	//Method 3: Add Items to Grid
+	// Method 3: Add Items to Grid
 	public void add_Items_Grids() throws InterruptedException
 	{
 		clickButton(10,checkAllGridWebElmt);
-		Thread.sleep(1000);		
+		Thread.sleep(1000);
+		
 		clickButton(10,addToGridWebElmt);
 		Thread.sleep(1000);
+		
 		clickButton(10,closeGridWebElmt);
 		Thread.sleep(1000);	
 	}

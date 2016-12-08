@@ -21,6 +21,7 @@ public class ProjectRelatedFunctions extends CommonFunctions
 	public String expdate;
 	public String arrDate ;
 		
+		
 	// Add Work flow screen parameters
 	public String nameWorkflow;
 	public String descriptionWorkflow;
@@ -36,7 +37,6 @@ public class ProjectRelatedFunctions extends CommonFunctions
 	public String captionName;
 	public String dataPointName;
 	public String dataPointType;
-	
 	
 	// Screen: Sub-Work flow ; Task Details Pop -up
 	protected String taskCaption[]={"Task 1","Task 2","Task 3","Task 4"};
