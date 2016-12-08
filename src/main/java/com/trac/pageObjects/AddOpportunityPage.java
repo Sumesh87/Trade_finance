@@ -180,7 +180,7 @@ public class AddOpportunityPage extends ProjectRelatedFunctions
 			
 			// Save the opportunity
 			//clickButton(10,saveOppWebElmt);
-			Thread.sleep(6000);
+			Thread.sleep(8000);
 			
 			
 		} 
